@@ -1,0 +1,602 @@
+index,name,rating,num_votes,institution,course_id,keyword,course_url,start_year,title_type,sum_rating
+0,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,4.66,1677,University of Pennsylvania,crash-course-in-causality,arts,https://www.coursera.org/learn/crash-course-in-causality,2020,3,7815
+1,A Law Student's Toolkit,4.7,1426,Yale University,law-student,law,https://www.coursera.org/learn/law-student,2019,4,6702
+2,AI For Everyone,4.84,5912,DeepLearning.AI,ai-for-everyone,ai / coding,https://www.coursera.org/learn/ai-for-everyone,2014,6,28614
+3,AI for Medical Diagnosis,4.6,5958,DeepLearning.AI,ai-for-medical-diagnosis,ai / coding / medical,https://www.coursera.org/learn/ai-for-medical-diagnosis,2012,6,27407
+4,AI for Medical Prognosis,4.7,5631,DeepLearning.AI,ai-for-medical-prognosis,ai / coding / medical,https://www.coursera.org/learn/ai-for-medical-prognosis,2013,6,26466
+5,AWS Fundamentals: Addressing Security Risk,4.16,2585,Amazon Web Services,aws-fundamentals-addressing-security-risk,aws / coding,https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk,2015,8,10754
+6,AWS Fundamentals: Going Cloud-native,4.69,2944,Amazon Web Services,aws-fundamentals-going-cloud-native,aws / coding,https://www.coursera.org/learn/aws-fundamentals-going-cloud-native,2013,8,13807
+7,Aboriginal Worldviews and Education,4.6,1853,University of Toronto,aboriginal-education,arts,https://www.coursera.org/learn/aboriginal-education,2020,3,8524
+8,Access Controls,4.57,3313,ISC,access-control-sscp,computer,https://www.coursera.org/learn/access-control-sscp,2019,6,15140
+9,Accounting Analytics,4.43,3383,University of Pennsylvania,accounting-analytics,accounting,https://www.coursera.org/learn/accounting-analytics,2020,9,14987
+10,Accounting Data Analytics with Python,3.5,3463,University of Illinois at Urbana-Champaign,accounting-data-analytics-python,accounting / python / coding,https://www.coursera.org/learn/accounting-data-analytics-python,2012,9,12121
+11,Actualizacion en el manejo del paciente con diabetes mellitus tipo 2,4.87,1615,Universidad nacional Autonoma de Mexico,actualizacion-manejo-diabetes-tipo-2,foreign,https://www.coursera.org/learn/actualizacion-manejo-diabetes-tipo-2,2017,5,7865
+12,Addiction Treatment: Clinical Skills for Healthcare Providers,4.92,2787,Yale University,addiction-treatment,medical,https://www.coursera.org/learn/addiction-treatment,2015,4,13712
+13,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",4.63,2221,Erasmus University Rotterdam,advanced-valuation-and-strategy,commerce,https://www.coursera.org/learn/advanced-valuation-and-strategy,2019,10,10283
+14,Advertising and Society,4.81,1599,Duke University,role-of-advertising,arts,https://www.coursera.org/learn/role-of-advertising,2014,3,7691
+15,Agile Meets Design Thinking,4.79,2346,University of Virginia,uva-darden-getting-started-agile,designing,https://www.coursera.org/learn/uva-darden-getting-started-agile,2020,9,11237
+16,Agile with Atlassian Jira,4.67,1759,Atlassian,agile-atlassian-jira,foreign,https://www.coursera.org/learn/agile-atlassian-jira,2015,5,8215
+17,Agile Scrum,4.73,1539,E-Learning Development Fund,upravleniya-proektami-agile-scrum,foreign,https://www.coursera.org/learn/upravleniya-proektami-agile-scrum,2019,5,7279
+18,Algorithmic Toolbox,4.53,3072,University of California San Diego,algorithmic-toolbox,coding,https://www.coursera.org/learn/algorithmic-toolbox,2012,6,13916
+19,American Contract Law I,4.83,1011,Yale University,contracts-1,law,https://www.coursera.org/learn/contracts-1,2013,4,4883
+20,An Introduction to American Law,4.87,1136,University of Pennsylvania,american-law,law,https://www.coursera.org/learn/american-law,2018,4,5532
+21,An Introduction to Consumer neuroscience & neuromarketing,4.74,2298,Copenhagen Business School,neuromarketing,commerce,https://www.coursera.org/learn/neuromarketing,2018,10,10893
+22,"Anatomy of the Chest, Abdomen, and Pelvis",4.78,2738,Yale University,trunk-anatomy,medical,https://www.coursera.org/learn/trunk-anatomy,2019,4,13088
+23,Anatomy: Musculoskeletal and Integumentary Systems,4.85,2738,University of Michigan,anatomy403-1x,medical,https://www.coursera.org/learn/anatomy403-1x,2019,4,13279
+24,Ancient Philosophy: Plato & His Predecessors,4.14,1966,University of Pennsylvania,plato,history,https://www.coursera.org/learn/plato,2014,2,8139
+25,Animal Behaviour and Welfare,4.81,2653,The University of Edinburgh,animal-welfare,medical / animals,https://www.coursera.org/learn/animal-welfare,2013,4,12761
+26,Antibiotic Stewardship,4.2,2963,Stanford University,antibiotic-stewardship,medical,https://www.coursera.org/learn/antibiotic-stewardship,2019,4,12445
+27,Anticorrupcion: Introduccion a conceptos y perspectiva practica,4.88,1964,Universidad nacional Autonoma de Mexico,anticorrupcion-introduccion,foreign,https://www.coursera.org/learn/anticorrupcion-introduccion,2015,5,9584
+28,Applied Data Science Capstone,4.53,3362,IBM,applied-data-science-capstone,ds / coding,https://www.coursera.org/learn/applied-data-science-capstone,2012,11,15230
+29,Applied Machine Learning in Python,4.51,5069,University of Michigan,python-machine-learning,ml / python / coding,https://www.coursera.org/learn/python-machine-learning,2020,6,22861
+30,"Applied Plotting, Charting & Data Representation in Python",4.36,5253,University of Michigan,python-plotting,python / coding,https://www.coursera.org/learn/python-plotting,2018,6,22903
+31,Aprendiendo a aprender: Poderosas herramientas mentales con las que podras dominar temas dificiles (Learning How to Learn),4.93,1924,University of California San Diego,aprendiendo-a-aprender,foreign,https://www.coursera.org/learn/aprendiendo-a-aprender,2015,5,9485
+32,Arts and Heritage Management,4.79,1902,Universita Bocconi,arts-heritage,arts,https://www.coursera.org/learn/arts-heritage,2015,3,9111
+33,Astronomy: Exploring Time and Space,4.88,2404,University of Arizona,astro,space / science,https://www.coursera.org/learn/astro,2015,12,11732
+34,Autism Spectrum Disorder,4.68,2608,"University of California, Davis",autism-spectrum-disorder,medical,https://www.coursera.org/learn/autism-spectrum-disorder,2019,4,12205
+35,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,4.71,3405,Autodesk,autodesk-autocad-design-drafting,computer / drawing,https://www.coursera.org/learn/autodesk-autocad-design-drafting,2014,6,16038
+36,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,4.77,3022,Autodesk,autodesk-revit-architectural-design,computer/drawing,https: /  / www.coursera.org / learn / autodesk-revit-architectural-design,2012,6,14415
+37,Basic Statistics,4.62,2941,University of Amsterdam,basic-statistics,maths,https://www.coursera.org/learn/basic-statistics,2019,7,13587
+38,Bayesian Statistics: From Concept to Data Analysis,4.45,2830,"University of California, Santa Cruz",bayesian-statistics,maths,https://www.coursera.org/learn/bayesian-statistics,2012,7,12594
+39,Bayesian Statistics: Techniques and Models,4.8,2859,"University of California, Santa Cruz",mcmc-bayesian-statistics,maths,https://www.coursera.org/learn/mcmc-bayesian-statistics,2012,7,13723
+40,Become a CBRS Certified Professional Installer by Google,4.93,3444,Google - Spectrum Sharing,google-cbrs-cpi-training,coding,https://www.coursera.org/learn/google-cbrs-cpi-training,2014,11,16979
+41,Becoming a changemaker: Introduction to Social Innovation,4.3,1517,University of Cape Town,social-innovation,arts,https://www.coursera.org/learn/social-innovation,2019,3,6523
+42,Behavioral Finance,4.09,2079,Duke University,duke-behavioral-finance,commerce,https://www.coursera.org/learn/duke-behavioral-finance,2020,10,8503
+43,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,4.75,1800,University of Michigan,beyond-the-sustainable-development-goals-addressing-sustainability-and-development,arts,https://www.coursera.org/learn/beyond-the-sustainable-development-goals-addressing-sustainability-and-development,2020,3,8550
+44,"Big Data Essentials: HDFS, MapReduce and Spark RDD",3.42,3178,Yandex,big-data-essentials,data / coding,https://www.coursera.org/learn/big-data-essentials,2013,11,10869
+45,Big History: Connecting Knowledge,4.8,1595,Macquarie University,big-history,history,https://www.coursera.org/learn/big-history,2018,2,7656
+46,Biohacking Your Brain's Health,4.7,2646,Emory University,biohacking-your-brains-health,medical,https://www.coursera.org/learn/biohacking-your-brains-health,2013,4,12436
+47,Biology Meets Programming: Bioinformatics for Beginners,4.24,2684,University of California San Diego,bioinformatics,medical,https://www.coursera.org/learn/bioinformatics,2020,4,11380
+48,Blockchain Basics,4.5,3336,University at Buffalo,blockchain-basics,coding,https://www.coursera.org/learn/blockchain-basics,2020,11,15012
+49,"Brand Management: Aligning Business, Brand and Behaviour",4.9,1559,London Business School,brand,arts,https://www.coursera.org/learn/brand,2012,3,7639
+50,Budgeting and Scheduling Projects,4.75,2134,"University of California, Irvine",schedule-projects,commerce,https://www.coursera.org/learn/schedule-projects,2019,8,10137
+51,Bugs 101: Insect-Human Interactions,4.96,2872,University of Alberta,bugs-101,medical,https://www.coursera.org/learn/bugs-101,2020,4,14245
+52,Build a Modern Computer from First Principles: From nand to Tetris (Project-Centered Course),4.92,3253,Hebrew University of Jerusalem,build-a-computer,computer,https://www.coursera.org/learn/build-a-computer,2017,6,16005
+53,Build a Modern Computer from First Principles: nand to Tetris Part II (project-centered course),4.96,3367,Hebrew University of Jerusalem,nand2tetris2,computer,https://www.coursera.org/learn/nand2tetris2,2013,6,16700
+54,Building Batch Data Pipelines on GCP,4.36,3368,Google Cloud,batch-data-pipelines-gcp,data / coding,https://www.coursera.org/learn/batch-data-pipelines-gcp,2017,11,14684
+55,Building Containerized Applications on AWS,4.41,2681,Amazon Web Services,containerized-apps-on-aws,aws / coding,https://www.coursera.org/learn/containerized-apps-on-aws,2015,8,11823
+56,Building Conversational Experiences with Dialogflow,4.24,1599,Google Cloud,conversational-experiences-dialogflow,arts,https://www.coursera.org/learn/conversational-experiences-dialogflow,2014,3,6780
+57,Building Modern Python Applications on AWS,5,2958,Amazon Web Services,building-modern-python-applications-on-aws,aws / python / coding,https://www.coursera.org/learn/building-modern-python-applications-on-aws,2019,8,14790
+58,Building Scalable Java Microservices with Spring Boot and Spring Cloud,4.02,5283,Google Cloud,google-cloud-java-spring,java / coding,https://www.coursera.org/learn/google-cloud-java-spring,2013,6,21238
+59,Business English: networking,4.88,258,University of Washington,business-english-intro,business,https://www.coursera.org/learn/business-english-intro,2017,1,1259
+60,Business Metrics for Data-Driven Companies,4.6,150,Duke University,analytics-business-metrics,business,https://www.coursera.org/learn/analytics-business-metrics,2017,1,690
+61,Business Model Innovation,4.7,1216,HEC Paris,business-model,business,https://www.coursera.org/learn/business-model,2018,1,5715
+62,Business Transformation with Google Cloud,4.83,1479,Google Cloud,business-transformation-google-cloud,business,https://www.coursera.org/learn/business-transformation-google-cloud,2014,1,7144
+63,Business Writing,4.81,1091,University of Colorado Boulder,writing-for-business,business,https://www.coursera.org/learn/writing-for-business,2019,1,5248
+64,C for Everyone: Programming Fundamentals,4.57,5283,"University of California, Santa Cruz",c-for-everyone,c / coding,https://www.coursera.org/learn/c-for-everyone,2015,6,24143
+65,COVID-19 Contact Tracing For nursing Professionals,3.91,2743,University of Houston,covid-19-contact-tracing-for-nursing-professionals,medical / covid19,https://www.coursera.org/learn/covid-19-contact-tracing-for-nursing-professionals,2020,4,10725
+66,COVID-19: What You need to Know (CME Eligible),4.85,2716,Osmosis,covid-19-what-you-need-to-know,medical / covid19,https://www.coursera.org/learn/covid-19-what-you-need-to-know,2020,4,13173
+67,"Cameras, Exposure, and Photography",4.74,1566,Michigan State University,exposure-photography,arts,https://www.coursera.org/learn/exposure-photography,2014,3,7423
+68,Camino a la Excelencia en Gestion de Proyectos,4.55,1723,Pontificia Universidad Catolica de Chile,camino-excelencia-gestion-proyectos,foreign,https://www.coursera.org/learn/camino-excelencia-gestion-proyectos,2015,5,7840
+69,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.5,1678,University of Michigan,python-data-visualization,foreign,"https://www.coursera.org,learn,python-data-visualization",2014,5,7551
+70,Career 911: Your Future Job in Medicine and Healthcare,4.27,5101,northwestern University,healthcarejobs,data / python / coding,https://www.coursera.org/learn/healthcarejobs,2017,6,21781
+71,Challenging Forensic Science: How Science Should Speak to Court,4.79,2516,University of Lausanne,challenging-forensic-science,medical,https://www.coursera.org/learn/challenging-forensic-science,2012,4,12052
+72,Chemicals and Health,4.86,1692,Johns Hopkins University,chemicals-health,arts / law,https://www.coursera.org/learn/chemicals-health,2018,3,8223
+73,Child nutrition and Cooking,4.74,2144,Stanford University,childnutrition,science / medical,https://www.coursera.org/learn/childnutrition,2020,12,10163
+74,Children's Human Rights - An Interdisciplinary Introduction,4.62,1749,University of Geneva,childrens-rights,arts,https://www.coursera.org/learn/childrens-rights,2019,3,8080
+75,Chinese for Beginners,4.79,1188,Peking University,learn-chinese,language / foreign,https://www.coursera.org/learn/learn-chinese,2016,5,5691
+76,Classical Sociological Theory,4.87,1518,University of Amsterdam,classical-sociological-theory,arts,https://www.coursera.org/learn/classical-sociological-theory,2017,3,7393
+77,Claves para Gestionar Personas,4.88,1901,IESE Business School,gestionar-personas,foreign,https://www.coursera.org/learn/gestionar-personas,2018,5,9277
+78,Clinical Terminology for International and U.S. Students,4.8,2745,University of Pittsburgh,clinical-terminology,medical,https://www.coursera.org/learn/clinical-terminology,2019,4,13176
+79,Code Yourself! An Introduction to Programming,4.81,3286,The University of Edinburgh,intro-programming,coding,https://www.coursera.org/learn/intro-programming,2019,11,15806
+80,Communication Strategies for a Virtual Age,4.88,1956,University of Toronto,communication-strategies-virtual-age,arts,https://www.coursera.org/learn/communication-strategies-virtual-age,2019,3,9545
+81,Community Organizing for Social Justice,4.17,1899,University of Michigan,community-organizing,arts,https://www.coursera.org/learn/community-organizing,2020,3,7919
+82,"Competencias Laborales: Perfiles, Evaluacion y Capacitacion.",4.52,1917,Universidad de Chile,competencias-lab,foreign,https://www.coursera.org/learn/competencias-lab,2013,5,8665
+83,"Competencias digitales. Herramientas de ofimatica (Microsoft Word, Excel, Power Point)",4.77,3220,Universitat Autonoma de Barcelona,competencias-digitales-ofimatica,computer,https://www.coursera.org/learn/competencias-digitales-ofimatica,2019,6,15359
+84,Computational neuroscience,4.6,3218,University of Washington,computational-neuroscience,computer,https://www.coursera.org/learn/computational-neuroscience,2014,6,14803
+85,Computational Thinking for Problem Solving,4.69,3348,University of Pennsylvania,computational-thinking-problem-solving,computer,https://www.coursera.org/learn/computational-thinking-problem-solving,2020,6,15702
+86,Construction Project Management,4.8,3081,Columbia University,construction-project-management,construction,https://www.coursera.org/learn/construction-project-management,2020,3,14789
+87,Contabilidad para no contadores,4.77,1556,Universidad nacional Autonoma de Mexico,contabilidad,foreign,https://www.coursera.org/learn/contabilidad,2018,5,7422
+88,Continuous Delivery & DevOps,4.55,1600,University of Virginia,uva-darden-continous-delivery-devops,arts,https://www.coursera.org/learn/uva-darden-continous-delivery-devops,2015,3,7280
+89,Convolutional neural networks,3.88,3223,DeepLearning.AI,convolutional-neural-networks,computer,https://www.coursera.org/learn/convolutional-neural-networks,2012,6,12505
+90,Convolutional neural networks in TensorFlow,4.47,3266,DeepLearning.AI,convolutional-neural-networks-tensorflow,computer,https://www.coursera.org/learn/convolutional-neural-networks-tensorflow,2012,6,14599
+91,Corporate & Commercial Law I: Contracts & Employment Law,4.84,1099,University of Illinois at Urbana-Champaign,corporate-commercial-law-part1,law,https://www.coursera.org/learn/corporate-commercial-law-part1,2012,4,5319
+92,Corporate Finance Essentials,4.87,2464,IESE Business School,corporate-finance-essentials,commerce,https://www.coursera.org/learn/corporate-finance-essentials,2016,10,12000
+93,Corporate Strategy,4.95,1971,UCL School of Management,corporatestrategy,arts,https://www.coursera.org/learn/corporatestrategy,2017,3,9756
+94,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,4.57,1909,Universita Bocconi,corp-sustainability,arts,https://www.coursera.org/learn/corp-sustainability,2014,3,8724
+95,"Correccion, estilo y  variaciones de la lengua espanola",4.74,1584,Universitat Autonoma de Barcelona,correccion-estilo-variaciones,foreign,https://www.coursera.org/learn/correccion-estilo-variaciones,2013,5,7508
+96,Cost and Economics in Pricing Strategy,4.82,2111,BCG,uva-darden-bcg-pricing-strategy-cost-economics,commerce,https://www.coursera.org/learn/uva-darden-bcg-pricing-strategy-cost-economics,2020,10,10175
+97,Crash Course on Python,4.73,5300,Google,python-crash-course,python / coding,https://www.coursera.org/learn/python-crash-course,2019,6,25069
+98,Creative Problem Solving,4.53,3416,University of Minnesota,creative-problem-solving,computer,https://www.coursera.org/learn/creative-problem-solving,2014,4,15474
+99,Creative Thinking: Techniques and Tools for Success,4.73,1993,Imperial College London,creative-thinking-techniques-and-tools-for-success,arts,https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success,2014,3,9427
+100,Creative Writing: The Craft of Plot,4.65,1815,Wesleyan University,craft-of-plot,arts,https://www.coursera.org/learn/craft-of-plot,2016,3,8440
+101,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,4.5,3262,University of Pennsylvania,wharton-cryptocurrency-blockchain-introduction-digital-currency,computer,https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency,2012,6,14679
+102,Cryptography I,4.77,3250,Stanford University,crypto,computer / crypto,https://www.coursera.org/learn/crypto,2016,6,15503
+103,Cultural Competence - Aboriginal Sydney,4.48,1827,The University of Sydney,cultural-competence-aboriginal-sydney,arts,https://www.coursera.org/learn/cultural-competence-aboriginal-sydney,2013,3,8185
+104,Curanderismo: Traditional Healing Using Plants,1,2818,University of new Mexico,curanderismo-plants,medical,https://www.coursera.org/learn/curanderismo-plants,2019,4,2818
+105,Cursos en linea: modelo para armar,4.95,1780,Universidad nacional Autonoma de Mexico,enlinea,foreign,https://www.coursera.org/learn/enlinea,2019,5,8811
+106,Customer Analytics,4.45,2071,University of Pennsylvania,wharton-customer-analytics,commerce,https://www.coursera.org/learn/wharton-customer-analytics,2014,10,9216
+107,Customer Segmentation and Prospecting,4.77,2214,northwestern University,customer-segmentation-prospecting,commerce,https://www.coursera.org/learn/customer-segmentation-prospecting,2016,10,10561
+108,Cybersecurity Compliance Framework & System Administration,4.49,3243,IBM,cybersecurity-compliance-framework-system-administration,cyber / coding,https://www.coursera.org/learn/cybersecurity-compliance-framework-system-administration,2019,11,14561
+109,"Cybersecurity Roles, Processes & Operating System Security",4.51,3044,IBM,cybersecurity-roles-processes-operating-system-security,cyber / coding,https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security,2017,11,13728
+110,Data Analysis with Python,4.46,5242,IBM,data-analysis-with-python,data / python / coding,https://www.coursera.org/learn/data-analysis-with-python,2019,6,23380
+111,Data Analytics for Lean Six Sigma,4.88,3150,University of Amsterdam,data-analytics-for-lean-six-sigma,data / coding,https://www.coursera.org/learn/data-analytics-for-lean-six-sigma,2014,11,15372
+112,Data Management for Clinical Research,4.77,3500,Vanderbilt University,clinical-data-management,data / medical,https://www.coursera.org/learn/clinical-data-management,2014,6,16695
+113,Data Science Math Skills,4.48,3009,Duke University,datasciencemathskills,data / maths,https://www.coursera.org/learn/datasciencemathskills,2013,6,13480
+114,Data Science Methodology,4.33,3054,IBM,data-science-methodology,data,https://www.coursera.org/learn/data-science-methodology,2017,6,13224
+115,Data Visualization with Python,4.06,5311,IBM,python-for-data-visualization,data / python / coding,https://www.coursera.org/learn/python-for-data-visualization,2019,6,21563
+116,Data-driven Decision Making,4.52,3413,PwC,decision-making,data,https://www.coursera.org/learn/decision-making,2016,6,15427
+117,Database Management Essentials,4.49,3339,University of Colorado System,database-management,database / sql / coding,https://www.coursera.org/learn/database-management,2019,11,14992
+118,Databases and SQL for Data Science,4.39,3123,IBM,sql-data-science,database / sql / coding,https://www.coursera.org/learn/sql-data-science,2016,11,13708
+119,Democracia y decisiones publicas. Introduccion al analisis de politicas publicas,4.86,1835,Universitat Autonoma de Barcelona,democracia,foreign,https://www.coursera.org/learn/democracia,2017,5,8918
+120,Dentistry 101,4.84,2771,University of Michigan,dentistry101,medical / dentist,https://www.coursera.org/learn/dentistry101,2020,4,13412
+121,Dermatology: Trip to skin,4.03,2965,novosibirsk State University,dermatology,medical,https://www.coursera.org/learn/dermatology,2020,4,11949
+122,Design Thinking for Innovation,4.68,3431,University of Virginia,uva-darden-design-thinking-innovation,computer / designing,https://www.coursera.org/learn/uva-darden-design-thinking-innovation,2016,6,16057
+123,Design Thinking for the Greater Good: Innovation in the Social Sector,4.58,1547,University of Virginia,uva-darden-design-thinking-social-sector,arts,https://www.coursera.org/learn/uva-darden-design-thinking-social-sector,2013,3,7085
+124,Design and Interpretation of Clinical Trials,4.73,2600,Johns Hopkins University,clinical-trials,medical,https://www.coursera.org/learn/clinical-trials,2016,4,12298
+125,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,4.66,2369,The University of Sydney,design-strategy,designing,https://www.coursera.org/learn/design-strategy,2014,9,11040
+126,DevOps Culture and Mindset,4.82,1864,"University of California, Davis",devops-culture-and-mindset,arts,https://www.coursera.org/learn/devops-culture-and-mindset,2012,3,8984
+127,Developing Your Musicianship,4.88,2224,Berklee College of Music,develop-your-musicianship,music,https://www.coursera.org/learn/develop-your-musicianship,2014,3,10853
+128,Devenir entrepreneur du changement,4.76,1865,HEC Paris,entrepreneur-changement,entrepreneur,https://www.coursera.org/learn/entrepreneur-changement,2017,1,8877
+129,Digital Business Models,4.59,639,Lund University,digital-business-models,business,https://www.coursera.org/learn/digital-business-models,2016,1,2933
+130,Digital Product Management: Modern Fundamentals,4.71,2140,University of Virginia,uva-darden-digital-product-management,commerce,https://www.coursera.org/learn/uva-darden-digital-product-management,2017,10,10079
+131,Digital Transformation,4.8,3037,BCG,bcg-uva-darden-digital-transformation,computer,https://www.coursera.org/learn/bcg-uva-darden-digital-transformation,2020,5,14578
+132,Dino 101: Dinosaur Paleobiology,4.9,1496,University of Alberta,dino101,history / research,https://www.coursera.org/learn/dino101,2013,6,7330
+133,Discrete Optimization,4.83,2971,The University of Melbourne,discrete-optimization,maths,https://www.coursera.org/learn/discrete-optimization,2013,7,14350
+134,Diversity and inclusion in the workplace,4.71,1853,ESSEC Business School,diversity-inclusion-workplace,arts,https://www.coursera.org/learn/diversity-inclusion-workplace,2012,3,8728
+135,Dog Emotion and Cognition,4.63,1564,Duke University,dog-emotion-and-cognition,arts / animals,https://www.coursera.org/learn/dog-emotion-and-cognition,2017,3,7241
+136,Driving business towards the Sustainable Development Goals,4.87,1324,Erasmus University Rotterdam,sdgbusiness,business,https://www.coursera.org/learn/sdgbusiness,2015,1,6448
+137,Drug Commercialization,4.6,2648,University of California San Diego,drug-commercialization,medical,https://www.coursera.org/learn/drug-commercialization,2012,4,12181
+138,Drug Development,4.55,2709,University of California San Diego,drug-development,medical,https://www.coursera.org/learn/drug-development,2020,4,12326
+139,Drug Discovery,4.63,2749,University of California San Diego,drug-discovery,medical,https://www.coursera.org/learn/drug-discovery,2019,4,12728
+140,Developpement psychologique de l'enfant,4.96,1549,University of Geneva,enfant-developpement,foreign,https://www.coursera.org/learn/enfant-developpement,2014,5,7683
+141,EDIVET: Do you have what it takes to be a veterinarian?,4.69,1860,The University of Edinburgh,becoming-a-veterinarian,history,https://www.coursera.org/learn/becoming-a-veterinarian,2018,2,8723
+142,EMT Foundations,4.85,1565,University of Colorado System,emt-foundations,emt,https://www.coursera.org/learn/emt-foundations,2013,1,7590
+143,Ecology: Ecosystem Dynamics and Conservation,4.83,2128,Howard Hughes Medical Institute,ecology-conservation,nature,https://www.coursera.org/learn/ecology-conservation,2018,3,10278
+144,Econometrics: Methods and Applications,4.53,2069,Erasmus University Rotterdam,erasmus-econometrics,commerce,https://www.coursera.org/learn/erasmus-econometrics,2012,10,9373
+145,Economics of Money and Banking,4.96,2047,Columbia University,money-banking,commerce,https://www.coursera.org/learn/money-banking,2018,10,10153
+146,Effective Business Presentations with Powerpoint,4.64,3117,PwC,powerpoint-presentations,computer,https://www.coursera.org/learn/powerpoint-presentations,2020,6,14463
+147,Effective Compliance Programs,4.91,3219,University of Pennsylvania,effective-compliance-programs,computer,https://www.coursera.org/learn/effective-compliance-programs,2013,6,15805
+148,El Abogado del Futuro: Legaltech y la Transformacion Digital del Derecho,4.97,1912,Universidad Austral,legaltech,foreign,https://www.coursera.org/learn/legaltech,2013,5,9503
+149,Elastic Google Cloud Infrastructure: Scaling and Automation,4.6,3235,Google Cloud,gcp-infrastructure-scaling-automation,coding / computer,https://www.coursera.org/learn/gcp-infrastructure-scaling-automation,2013,11,14881
+150,Electric Industry Operations and Markets,4.78,2469,Duke University,electricity,science,https://www.coursera.org/learn/electricity,2019,12,11802
+151,Embedded Software and Hardware Architecture,4.31,3184,University of Colorado Boulder,embedded-software-hardware,computer,https://www.coursera.org/learn/embedded-software-hardware,2019,6,13723
+152,Engineering Health: Introduction to Yoga and Physiology,4.58,2301,new York University,engineering-health-yoga-physiology,yoga,https://www.coursera.org/learn/engineering-health-yoga-physiology,2018,3,10539
+153,Engineering Project Management: Initiating and Planning,4.8,1083,Rice University,initiating-planning,management,https://www.coursera.org/learn/initiating-planning,2017,1,5198
+154,English Composition I,4.53,1307,Duke University,english-composition,language / foreign,https://www.coursera.org/learn/english-composition,2014,5,5921
+155,English for Business and Entrepreneurship,4.88,386,University of Pennsylvania,business,business,https://www.coursera.org/learn/business,2019,1,1884
+156,English for Career Development,4.85,1407,University of Pennsylvania,careerdevelopment,language / foreign,https://www.coursera.org/learn/careerdevelopment,2020,3,6824
+157,English for Journalism,4.83,1257,University of Pennsylvania,journalism,journalism,https://www.coursera.org/learn/journalism,2013,3,6071
+158,Enterprise Architecture,4.55,1549,Peter the Great St. Petersburg Polytechnic University,enterprise-architecture,arts,https://www.coursera.org/learn/enterprise-architecture,2017,3,7048
+159,Entrepreneurship 1: Developing the Opportunity,4.8,1727,University of Pennsylvania,wharton-entrepreneurship-opportunity,entrepreneur,https://www.coursera.org/learn/wharton-entrepreneurship-opportunity,2014,1,8290
+160,Entrepreneurship 2: Launching your Start-Up,4.75,1761,University of Pennsylvania,wharton-launching-startup,entrepreneur,https://www.coursera.org/learn/wharton-launching-startup,2015,1,8365
+161,Entrepreneurship Strategy: From Ideation to Exit,1,1605,HEC Paris,entrepreneurship-strategy,entrepreneur,https://www.coursera.org/learn/entrepreneurship-strategy,2012,1,1605
+162,Entreprise et changement climatique,5,2927,ESSEC Business School,entreprise-changement-climatique,medical,https://www.coursera.org/learn/entreprise-changement-climatique,2015,4,14635
+163,"Epidemics, Pandemics and Outbreaks",4.74,2929,University of Pittsburgh,epidemic-pandemic-outbreak,medical,https://www.coursera.org/learn/epidemic-pandemic-outbreak,2015,4,13883
+164,Epidemiology: The Basic Science of Public Health,4.65,2596,The University of north Carolina at Chapel Hill,epidemiology,medical,https://www.coursera.org/learn/epidemiology,2015,4,12071
+165,Epigenetic Control of Gene Expression,1,2766,The University of Melbourne,epigenetics,medical,https://www.coursera.org/learn/epigenetics,2016,4,2766
+166,Equine Welfare and Management,4.95,2253,"University of California, Davis",equine,commerce,https://www.coursera.org/learn/equine,2018,10,11152
+167,Essential Epidemiologic Tools for Public Health Practice,4.69,2738,Johns Hopkins University,epidemiology-tools,medical,https://www.coursera.org/learn/epidemiology-tools,2016,4,12841
+168,Essential Google Cloud Infrastructure: Core Services,4.67,3313,Google Cloud,gcp-infrastructure-core-services,coding / computer,https://www.coursera.org/learn/gcp-infrastructure-core-services,2015,11,15472
+169,Essential Google Cloud Infrastructure: Foundation,4.73,3495,Google Cloud,gcp-infrastructure-foundation,coding / computer,https://www.coursera.org/learn/gcp-infrastructure-foundation,2018,11,16531
+170,Essentials in Clinical Simulations Across the Health Professions,4.83,2603,The George Washington University,clinicalsimulations,medical,https://www.coursera.org/learn/clinicalsimulations,2017,4,12572
+171,Essentials of Global Health,4.86,2764,Yale University,essentials-global-health,medical,https://www.coursera.org/learn/essentials-global-health,2013,4,13433
+172,European Business Law: Understanding the Fundamentals,4.75,1317,Lund University,european-law-fundamentals,law,https://www.coursera.org/learn/european-law-fundamentals,2013,4,6256
+173,Everyday Chinese Medicine,4.7,3293,The Chinese University of Hong Kong,everyday-chinese-medicine,chinese / foreign / medical,https://www.coursera.org/learn/everyday-chinese-medicine,2013,4,15477
+174,"Everyday Excel, Part 1",4.83,3220,University of Colorado Boulder,everyday-excel-part-1,computer,https://www.coursera.org/learn/everyday-excel-part-1,2013,6,15553
+175,"Everyday Excel, Part 2",4.95,3302,University of Colorado Boulder,everyday-excel-part-2,computer,https://www.coursera.org/learn/everyday-excel-part-2,2013,6,16345
+176,Everyday Parenting: The ABCs of Child Rearing,4.93,1713,Yale University,everyday-parenting,arts,https://www.coursera.org/learn/everyday-parenting,2017,3,8445
+177,Excel Fundamentals for Data Analysis,4.59,3265,Macquarie University,excel-data-analysis-fundamentals,data / computer,https://www.coursera.org/learn/excel-data-analysis-fundamentals,2020,6,14986
+178,Excel Skills for Business: Advanced,4.68,3034,Macquarie University,excel-advanced,coding / computer,https://www.coursera.org/learn/excel-advanced,2015,11,14199
+179,Excel Skills for Business: Essentials,4.9,3184,Macquarie University,excel-essentials,coding / computer,https://www.coursera.org/learn/excel-essentials,2018,11,15602
+180,Excel Skills for Business: Intermediate I,4.91,3095,Macquarie University,excel-intermediate-1,coding / computer,https://www.coursera.org/learn/excel-intermediate-1,2012,11,15196
+181,Excel Skills for Business: Intermediate II,4.72,3145,Macquarie University,excel-intermediate-2,coding / computer,https://www.coursera.org/learn/excel-intermediate-2,2017,11,14844
+182,Excel aplicado a los negocios (nivel Avanzado),4.72,3254,Universidad Austral,excel-aplicado-negocios-avanzado,computer / foreign,https://www.coursera.org/learn/excel-aplicado-negocios-avanzado,2019,11,15359
+183,"Excel , VBA for Creative Problem Solving, Part 1",4.86,3340,University of Colorado Boulder,excel-vba-for-creative-problem-solving-part-1,coding / computer,https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1,2012,11,16232
+184,Exploring Renewable Energy Schemes,4.78,2292,University of Pennsylvania,exploring-renewable-energy,research,https://www.coursera.org/learn/exploring-renewable-energy,2015,3,10956
+185,Exploring and Preparing your Data with BigQuery,4.46,3298,Google Cloud,gcp-exploring-preparing-data-bigquery,data / coding,https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery,2018,11,14709
+186,Fashion as Design,4.84,2306,The Museum of Modern Art,fashion-design,designing,https://www.coursera.org/learn/fashion-design,2017,9,11161
+187,Feminism and Social Justice,4.81,1616,"University of California, Santa Cruz",feminism-social-justice,arts,https://www.coursera.org/learn/feminism-social-justice,2014,3,7773
+188,FinTech Law and Policy,4.81,1448,Duke University,fintechlawandpolicy,law,https://www.coursera.org/learn/fintechlawandpolicy,2018,4,6965
+189,"FinTech: Foundations, Payments, and Regulations",4.58,2304,University of Pennsylvania,wharton-fintech-overview-payments-regulations,commerce,https://www.coursera.org/learn/wharton-fintech-overview-payments-regulations,2013,10,10552
+190,Finance for non-Finance Professionals,4.81,2323,Rice University,finance-for-non-finance,commerce,https://www.coursera.org/learn/finance-for-non-finance,2012,10,11174
+191,Finance for non-Financial Managers,4.13,2405,Emory University,finance-for-non-financial-managers,commerce,https://www.coursera.org/learn/finance-for-non-financial-managers,2013,10,9933
+192,Financial Accounting Fundamentals,4.84,2309,University of Virginia,uva-darden-financial-accounting,commerce,https://www.coursera.org/learn/uva-darden-financial-accounting,2019,10,11176
+193,Financial Acumen for non-Financial Managers,4.07,2430,University of Pennsylvania,finance-healthcare-managers,commerce,https://www.coursera.org/learn/finance-healthcare-managers,2013,10,9890
+194,Financial Engineering and Risk Management Part I,4.41,2313,Columbia University,financial-engineering-1,commerce,https://www.coursera.org/learn/financial-engineering-1,2014,10,10200
+195,Financial Markets,4.82,2426,Yale University,financial-markets-global,commerce,https://www.coursera.org/learn/financial-markets-global,2020,10,11694
+196,Financial Planning for Young Adults,4.33,2207,University of Illinois at Urbana-Champaign,financial-planning,commerce,https://www.coursera.org/learn/financial-planning,2012,10,9556
+197,Financing and Investing in Infrastructure,4.84,2158,Universita Bocconi,infrastructure-investing,commerce,https://www.coursera.org/learn/infrastructure-investing,2015,10,10445
+198,Finanzas personales,4.81,2295,Universidad nacional Autonoma de Mexico,finanzas-personales,commerce / foreign,https://www.coursera.org/learn/finanzas-personales,2013,10,11039
+199,Finding Purpose and Meaning In Life: Living for What Matters Most,4.8,1718,University of Michigan,finding-purpose-and-meaning-in-life,arts,https://www.coursera.org/learn/finding-purpose-and-meaning-in-life,2016,3,8246
+200,First Step Korean,4.87,1402,Yonsei University,learn-korean,language / foreign,https://www.coursera.org/learn/learn-korean,2018,5,6828
+201,Food & Beverage Management,4.8,1009,Universita Bocconi,food-beverage-management,management,https://www.coursera.org/learn/food-beverage-management,2016,1,4843
+202,Forensic Accounting and Fraud Examination,4.73,2134,West Virginia University,forensic-accounting,research,https://www.coursera.org/learn/forensic-accounting,2019,1,10094
+203,Foundations for Big Data Analysis with SQL,4.81,3093,Cloudera,foundations-big-data-analysis-sql,data / coding / computer,https://www.coursera.org/learn/foundations-big-data-analysis-sql,2014,11,14877
+204,Foundations of Business Strategy,4.82,1190,University of Virginia,uva-darden-foundations-business-strategy,business,https://www.coursera.org/learn/uva-darden-foundations-business-strategy,2016,1,5736
+205,Foundations of Data Science: K-Means Clustering in Python,4.68,5183,University of London,data-science-k-means-clustering-python,data / science / python / coding,https://www.coursera.org/learn/data-science-k-means-clustering-python,2014,6,24256
+206,Foundations of Mindfulness,4.82,1934,Rice University,foundations-of-mindfulness,arts,https://www.coursera.org/learn/foundations-of-mindfulness,2017,3,9322
+207,Front-End Web Development with React,4.62,3322,The Hong Kong University of Science and Technology,front-end-react,coding / computer,https://www.coursera.org/learn/front-end-react,2019,11,15348
+208,Front-End Web UI Frameworks and Tools: Bootstrap 4,4.82,3099,The Hong Kong University of Science and Technology,bootstrap-4,coding / computer,https://www.coursera.org/learn/bootstrap-4,2015,11,14937
+209,Functional Programming Principles in Scala,4.73,3393,ecole Polytechnique Federale de Lausanne,progfun1,coding,https://www.coursera.org/learn/progfun1,2014,11,16049
+210,Fundamental neuroscience for neuroimaging,4.61,3354,Johns Hopkins University,neuroscience-neuroimaging,computer,https://www.coursera.org/learn/neuroscience-neuroimaging,2020,3,15462
+211,Fundamentals of Engineering Exam Review,4.43,1951,Georgia Institute of Technology,fe-exam,arts,https://www.coursera.org/learn/fe-exam,2017,3,8643
+212,Fundamentals of Finance,3.89,2000,University of Pennsylvania,finance-fundamentals,commerce,https://www.coursera.org/learn/finance-fundamentals,2020,10,7780
+213,Fundamentals of GIS,4.86,1514,"University of California, Davis",gis,arts,https://www.coursera.org/learn/gis,2017,3,7358
+214,Fundamentals of Graphic Design,4.79,2097,California Institute of the Arts,fundamentals-of-graphic-design,designing,https://www.coursera.org/learn/fundamentals-of-graphic-design,2015,9,10045
+215,Fundamentals of Immunology: Innate Immunity and B-Cell Function,4.82,1807,Rice University,immunologyfundamentalsimmunitybcells,arts,https://www.coursera.org/learn/immunologyfundamentalsimmunitybcells,2018,3,8710
+216,Fundamentals of Machine Learning for Healthcare,4.83,2986,Stanford University,fundamental-machine-learning-healthcare,medical,https://www.coursera.org/learn/fundamental-machine-learning-healthcare,2017,4,14422
+217,Fundamentals of Project Planning and Management,4.77,1124,University of Virginia,uva-darden-project-management,management,https://www.coursera.org/learn/uva-darden-project-management,2014,1,5361
+218,Fundamentals of Quantitative Modeling,4.57,2235,University of Pennsylvania,wharton-quantitative-modeling,science,https://www.coursera.org/learn/wharton-quantitative-modeling,2019,12,10214
+219,Fundamentals of Reinforcement Learning,4.74,5536,Alberta Machine Intelligence Institute,fundamentals-of-reinforcement-learning,ml / python / coding,https://www.coursera.org/learn/fundamentals-of-reinforcement-learning,2018,6,26238
+220,Fundamentals of Scalable Data Science,4.01,5334,IBM,ds,data / science / coding,https://www.coursera.org/learn/ds,2012,11,21389
+221,Fundamentals of Visualization with Tableau,4.36,3010,"University of California, Davis",data-visualization-tableau,computer,https://www.coursera.org/learn/data-visualization-tableau,2017,11,13124
+222,Fundamentos de Excel para negocios,4.82,3120,Universidad Austral,excel-para-negocios,computer,https://www.coursera.org/learn/excel-para-negocios,2015,11,15038
+223,Fundamentos de Finanzas Empresariales,4.91,1772,Universidad de los Andes,finanzas-empresariales,foreign,https://www.coursera.org/learn/finanzas-empresariales,2016,5,8701
+224,Gamification,4.78,1543,University of Pennsylvania,gamification,games,https://www.coursera.org/learn/gamification,2012,3,7376
+225,Gender and Sexuality: Diversity and Inclusion in the Workplace,4.71,1597,University of Pittsburgh,gender-sexuality,arts,https://www.coursera.org/learn/gender-sexuality,2020,3,7522
+226,Geopolitics of Europe,3.84,1510,Sciences Po,geopolitics-europe,history,https://www.coursera.org/learn/geopolitics-europe,2017,2,5798
+227,Gestion Empresarial Exitosa para Pymes,4.85,1855,Pontificia Universidad Catolica de Chile,gestionempresarialpyme,foreign,https://www.coursera.org/learn/gestionempresarialpyme,2017,5,8997
+228,Gestion de organizaciones efectivas,4.78,1998,Pontificia Universidad Catolica de Chile,gestion-organizaciones-efectivas,foreign,https://www.coursera.org/learn/gestion-organizaciones-efectivas,2014,5,9550
+229,Get Interactive: Practical Teaching with Technology,4.76,3188,University of London,getinmooc,computer,https://www.coursera.org/learn/getinmooc,2019,6,15175
+230,Getting Started With Music Theory,4.12,2074,Michigan State University,music-theory,music,https://www.coursera.org/learn/music-theory,2020,3,8545
+231,Getting Started with AWS Machine Learning,4.41,2957,Amazon Web Services,aws-machine-learning,aws / coding,https://www.coursera.org/learn/aws-machine-learning,2018,8,13040
+232,Getting Started with Azure,4.18,3070,LearnQuest,cloud-azure-intro,computer,https://www.coursera.org/learn/cloud-azure-intro,2016,6,12833
+233,Getting Started with Essay Writing,4.72,1866,"University of California, Irvine",getting-started-with-essay-writing,arts,https://www.coursera.org/learn/getting-started-with-essay-writing,2019,3,8808
+234,Getting Started with Go,4.4,3390,"University of California, Irvine",golang-getting-started,computer,https://www.coursera.org/learn/golang-getting-started,2018,6,14916
+235,Getting Started with Google Kubernetes Engine,4.25,3049,Google Cloud,google-kubernetes-engine,computer,https://www.coursera.org/learn/google-kubernetes-engine,2019,6,12958
+236,Getting Started with Google Sheets,4.67,3396,Google Cloud,getting-started-with-google-sheets,computer,https://www.coursera.org/learn/getting-started-with-google-sheets,2015,6,15859
+237,Getting Started with SAS Programming,4.87,3267,SAS,sas-programming-basics,coding / computer,https://www.coursera.org/learn/sas-programming-basics,2019,11,15910
+238,Getting started with TensorFlow 2,4.94,3049,Imperial College London,getting-started-with-tensor-flow2,coding / computer,https://www.coursera.org/learn/getting-started-with-tensor-flow2,2012,11,15062
+239,Global Diplomacy Ã¯Â¿Â½ Diplomacy in the Modern World,4.64,1609,University of London,global-diplomacy,arts,https://www.coursera.org/learn/global-diplomacy,2016,3,7466
+240,Global Diplomacy: the United nations in the World,4.72,1821,University of London,global-diplomacy-un,arts,https://www.coursera.org/learn/global-diplomacy-un,2012,3,8595
+241,Global Energy and Climate Policy,4.67,2030,University of London,globalenergyandclimatepolicy,science,https://www.coursera.org/learn/globalenergyandclimatepolicy,2012,12,9480
+242,Global Environmental Management,4.68,1052,Technical University of Denmark (DTU),global-environmental-management,management,https://www.coursera.org/learn/global-environmental-management,2013,1,4923
+243,Global Financial Markets and Instruments,4.28,2454,Rice University,global-financial-markets-instruments,commerce,https://www.coursera.org/learn/global-financial-markets-instruments,2013,10,10503
+244,Google Cloud Platform Big Data and Machine Learning Fundamentals,4.57,5277,Google Cloud,gcp-big-data-ml-fundamentals,ml / data / coding,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals,2015,6,24116
+245,Google Cloud Platform Fundamentals: Core Infrastructure,4.72,3252,Google Cloud,gcp-fundamentals,coding / computer,https://www.coursera.org/learn/gcp-fundamentals,2016,11,15349
+246,Google Cloud Product Fundamentals,4.7,3028,Google Cloud,google-cloud-product-fundamentals,coding / computer,https://www.coursera.org/learn/google-cloud-product-fundamentals,2016,11,14232
+247,Grammar and Punctuation,4.77,1922,"University of California, Irvine",grammar-punctuation,arts / language,https://www.coursera.org/learn/grammar-punctuation,2017,3,9168
+248,Greek and Roman Mythology,4.79,1799,University of Pennsylvania,mythology,history,https://www.coursera.org/learn/mythology,2013,2,8617
+249,Greening the Economy: Sustainable Cities,4.65,2067,Lund University,gte-sustainable-cities,commecre,https://www.coursera.org/learn/gte-sustainable-cities,2015,10,9612
+250,Guitar for Beginners,4.76,2336,Berklee College of Music,guitar,music,https://www.coursera.org/learn/guitar,2017,3,11119
+251,Gut Check: Exploring Your Microbiome,4.79,2675,University of Colorado Boulder,microbiome,medical,https://www.coursera.org/learn/microbiome,2016,4,12813
+252,"HTML, CSS, and Javascript for Web Developers",4.76,3226,Johns Hopkins University,html-css-javascript-for-web-developers,coding / computer / website,https://www.coursera.org/learn/html-css-javascript-for-web-developers,2019,11,15356
+253,Hacia una practica constructivista en el aula,4.91,1616,Pontificia Universidad Catolica de Chile,aulaconstructivista,foreign,https://www.coursera.org/learn/aulaconstructivista,2014,5,7935
+254,Healing with the Arts,4.74,2881,University of Florida,healing-with-the-arts,medical,https://www.coursera.org/learn/healing-with-the-arts,2019,4,13656
+255,Health Behavior Change: From Evidence to Action,4.93,2883,Yale University,health-behavior-change,medical,https://www.coursera.org/learn/health-behavior-change,2019,4,14213
+256,High Stakes Leadership: Leading in Times of Crisis,4.78,1661,University of Michigan,high-stakes-leadership,arts,https://www.coursera.org/learn/high-stakes-leadership,2018,3,7940
+257,How Google does Machine Learning,4.48,3352,Google Cloud,google-machine-learning,coding / computer,https://www.coursera.org/learn/google-machine-learning,2013,11,15017
+258,How Things Work: An Introduction to Physics,4.85,1751,University of Virginia,how-things-work,arts,https://www.coursera.org/learn/how-things-work,2014,3,8492
+259,How to Manage a Remote Team,5,1726,GitLab,remote-team-management,arts / management,https://www.coursera.org/learn/remote-team-management,2016,3,8630
+260,Human Rights for Open Societies,4.81,1853,Utrecht University,humanrights,arts,https://www.coursera.org/learn/humanrights,2012,3,8913
+261,Hypothesis-Driven Development,4.58,2416,University of Virginia,uva-darden-agile-testing,science,https://www.coursera.org/learn/uva-darden-agile-testing,2016,12,11065
+262,IBM Customer Engagement Specialist Professional Certificate,4.86,2375,IBM,ibm-customer-engagement-specialist,commerce,https://www.coursera.org/learn/ibm-customer-engagement-specialist,2012,10,11543
+263,IT Security: Defense against the digital dark arts,4.76,3436,Google,it-security,cyber,https://www.coursera.org/learn/it-security,2014,1,16355
+264,Improving Communication Skills,4.69,1554,University of Pennsylvania,wharton-communication-skills,arts,https://www.coursera.org/learn/wharton-communication-skills,2013,3,7288
+265,"Improving Deep neural networks: Hyperparameter tuning, Regularization and Optimization",4.82,3279,DeepLearning.AI,deep-neural-network,coding / computer,https://www.coursera.org/learn/deep-neural-network,2012,11,15805
+266,Improving your statistical inferences,4.89,2831,Eindhoven University of Technology,statistical-inferences,maths,https://www.coursera.org/learn/statistical-inferences,2017,7,13844
+267,In the Studio: Postwar Abstract Painting,4.94,1663,The Museum of Modern Art,painting,arts / designing,https://www.coursera.org/learn/painting,2014,3,8215
+268,Indigenous Canada,4.81,1987,University of Alberta,indigenous-canada,foreign,https://www.coursera.org/learn/indigenous-canada,2019,5,9557
+269,Industrial Biotechnology,4.57,2471,University of Manchester,industrial-biotech,science,https://www.coursera.org/learn/industrial-biotech,2018,12,11292
+270,Industrial IoT on Google Cloud Platform,4.54,3453,Google Cloud,iiot-google-cloud-platform,coding/computer,https: /  / www.coursera.org / learn / iiot-google-cloud-platform,2016,11,15677
+271,Information Security: Context and Introduction,4.67,3154,"Royal Holloway, University of London",information-security-data,cyber / data / coding,https://www.coursera.org/learn/information-security-data,2013,11,14729
+272,"Information Systems Auditing, Controls and Assurance",4.69,3055,The Hong Kong University of Science and Technology,information-systems-audit,coding,https://www.coursera.org/learn/information-systems-audit,2018,11,14328
+273,Initiating and Planning Projects,4.72,1646,"University of California, Irvine",project-planning,arts,https://www.coursera.org/learn/project-planning,2019,3,7769
+274,Innovation Management,4.72,1038,Erasmus University Rotterdam,innovation-management,management,https://www.coursera.org/learn/innovation-management,2018,1,4899
+275,"Innovation Through Design: Think, Make, Break, Repeat",4.71,2347,The University of Sydney,innovation-through-design,designing,https://www.coursera.org/learn/innovation-through-design,2018,9,11054
+276,Inspiring and Motivating Individuals,4.85,1743,University of Michigan,motivate-people-teams,arts,https://www.coursera.org/learn/motivate-people-teams,2015,3,8454
+277,Instructional Design Foundations and Applications,3.67,2422,University of Illinois at Urbana-Champaign,instructional-design-foundations-applications,designing,https://www.coursera.org/learn/instructional-design-foundations-applications,2012,9,8889
+278,Intercultural Management,4.31,1124,ESCP Business School,intercultural,management,https://www.coursera.org/learn/intercultural,2014,1,4844
+279,International Humanitarian Law in Theory and Practice,4.83,1212,Universiteit Leiden,international-humanitarian-law,law,https://www.coursera.org/learn/international-humanitarian-law,2019,4,5854
+280,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,4.75,1405,Universiteit Leiden,international-law-in-action,law,https://www.coursera.org/learn/international-law-in-action,2012,4,6674
+281,International Law in Action: the Arbitration of International Disputes,4.85,1189,Universiteit Leiden,arbitration-international-disputes,law,https://www.coursera.org/learn/arbitration-international-disputes,2016,4,5767
+282,International Leadership and Organizational Behavior,4.84,1752,Universita Bocconi,organizational-behavior,arts,https://www.coursera.org/learn/organizational-behavior,2012,3,8480
+283,International Organizations Management,4.84,1276,University of Geneva,international-organizations-management,management,https://www.coursera.org/learn/international-organizations-management,2020,1,6176
+284,International Security Management,4.61,1397,Erasmus University Rotterdam,international-security-management,management,https://www.coursera.org/learn/international-security-management,2015,1,6440
+285,International Women's Health and Human Rights,4.89,1914,Stanford University,womens-health-human-rights,arts,https://www.coursera.org/learn/womens-health-human-rights,2015,3,9359
+286,International migrations: a global issue,4.3,1956,Sciences Po,international-migrations,arts,https://www.coursera.org/learn/international-migrations,2017,3,8411
+287,Introduccion a Data Science: Programacion Estadistica con R,4.72,3230,Universidad nacional Autonoma de Mexico,intro-data-science-programacion-estadistica-r,data / science / foreign,https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r,2013,6,15246
+288,Introduccion a la programacion en Python I: Aprendiendo a programar con Python,4.23,1434,Pontificia Universidad Catolica de Chile,aprendiendo-programar-python,python / coding / foreign,https://www.coursera.org/learn/aprendiendo-programar-python,2014,6,6066
+289,Introduction aux Droits de l'Homme,4.89,1696,University of Geneva,droits-de-lhomme,foreign,https://www.coursera.org/learn/droits-de-lhomme,2019,5,8293
+290,Introduction to Accounting Data Analytics and Visualization,4.88,3409,University of Illinois at Urbana-Champaign,intro-accounting-data-analytics-visual,data / coding / computer,https://www.coursera.org/learn/intro-accounting-data-analytics-visual,2019,11,16636
+291,Introduction to Ancient Egypt and Its Civilization,4.64,1755,University of Pennsylvania,introancientegypt,history,https://www.coursera.org/learn/introancientegypt,2018,2,8143
+292,Introduction to Artificial Intelligence (AI),4.77,5464,IBM,introduction-to-ai,ai / coding,https://www.coursera.org/learn/introduction-to-ai,2018,6,26063
+293,Introduction to Big Data,4.59,3102,University of California San Diego,big-data-introduction,data / coding,https://www.coursera.org/learn/big-data-introduction,2014,11,14238
+294,Introduction to Blockchain Technologies,4.71,3500,InSEAD,introduction-blockchain-technologies,coding / computer,https://www.coursera.org/learn/introduction-blockchain-technologies,2014,11,16485
+295,Introduction to Business Analytics: Communicating with Data,4.65,1262,University of Illinois at Urbana-Champaign,intro-business-analytics,business / data,https://www.coursera.org/learn/intro-business-analytics,2019,2,5868
+296,Introduction to C# Programming and Unity,4.67,5124,University of Colorado System,introduction-programming-unity,c / coding / computer,https://www.coursera.org/learn/introduction-programming-unity,2013,11,23929
+297,Introduction to CSS3,4.81,3403,University of Michigan,introcss,coding / website,https://www.coursera.org/learn/introcss,2016,6,16368
+298,Introduction to Calculus,4.87,2966,The University of Sydney,introduction-to-calculus,maths,https://www.coursera.org/learn/introduction-to-calculus,2019,7,14444
+299,Introduction to Chemistry:  Reactions and Ratios,4.83,2028,Duke University,intro-chemistry,science / medical,https://www.coursera.org/learn/intro-chemistry,2012,12,9795
+300,Introduction to Classical Music,4.92,2392,Yale University,introclassicalmusic,music,https://www.coursera.org/learn/introclassicalmusic,2020,3,11769
+301,Introduction to Cloud Computing,4.91,3456,IBM,introduction-to-cloud,coding / computer,https://www.coursera.org/learn/introduction-to-cloud,2012,11,16969
+302,Introduction to Computer Programming,3.92,3073,University of London,introduction-to-computer-programming,coding / computer,https://www.coursera.org/learn/introduction-to-computer-programming,2015,11,12046
+303,Introduction to Computers and Office Productivity Software,4.6,3303,The Hong Kong University of Science and Technology,introduction-to-computers-and-office-productivity-software,computer,https://www.coursera.org/learn/introduction-to-computers-and-office-productivity-software,2015,11,15194
+304,Introduction to Corporate Finance,4.44,2335,University of Pennsylvania,wharton-finance,commerce,https://www.coursera.org/learn/wharton-finance,2019,10,10367
+305,Introduction to Cybersecurity Tools & Cyber Attacks,4.27,3451,IBM,introduction-cybersecurity-cyber-attacks,cyber / coding / computer,https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks,2013,11,14736
+306,Introduction to Data Analysis Using Excel,4.71,3012,Rice University,excel-data-analysis,data / coding,https://www.coursera.org/learn/excel-data-analysis,2012,11,14187
+307,Introduction to Data Analytics,4.78,3233,IBM,introduction-to-data-analytics,data / coding,https://www.coursera.org/learn/introduction-to-data-analytics,2020,11,15454
+308,Introduction to Data Science in Python,4.25,3486,University of Michigan,python-data-analysis,python / data / coding,https://www.coursera.org/learn/python-data-analysis,2017,6,14816
+309,Introduction to Dental Medicine,4.91,2649,University of Pennsylvania,dental-medicine-penn,medical,https://www.coursera.org/learn/dental-medicine-penn,2015,4,13007
+310,Introduction to Economic Theories,4.15,2209,Erasmus University Rotterdam,intro-economic-theories,commerce,https://www.coursera.org/learn/intro-economic-theories,2020,10,9167
+311,Introduction to Electronics,4.72,2182,Georgia Institute of Technology,electronics,science,https://www.coursera.org/learn/electronics,2018,12,10299
+312,Introduction to Embedded Systems Software and Development Environments,4.32,3461,University of Colorado Boulder,introduction-embedded-systems,computer,https://www.coursera.org/learn/introduction-embedded-systems,2016,6,14952
+313,Introduction to Engineering Mechanics,4.76,2287,Georgia Institute of Technology,engineering-mechanics-statics,science,https://www.coursera.org/learn/engineering-mechanics-statics,2020,6,10886
+314,Introduction to English Common Law,4.82,1206,University of London,intro-common-law,law,https://www.coursera.org/learn/intro-common-law,2014,4,5813
+315,Introduction to Environmental Law and Policy,4.86,1349,The University of north Carolina at Chapel Hill,environmental-law,law,https://www.coursera.org/learn/environmental-law,2014,4,6556
+316,Introduction to Financial Accounting,4.78,2183,University of Pennsylvania,wharton-accounting,commerce,https://www.coursera.org/learn/wharton-accounting,2012,10,10435
+317,Introduction to Forensic Science,4.85,2463,"nanyang Technological University, Singapore",forensic-science,science / research,https://www.coursera.org/learn/forensic-science,2020,12,11946
+318,Introduction to G Suite,4.63,3209,Google Cloud,introduction-g-suite,computer,https://www.coursera.org/learn/introduction-g-suite,2016,6,14858
+319,Introduction to Game Development,4.76,1672,Michigan State University,game-development,games / coding,https://www.coursera.org/learn/game-development,2018,3,7959
+320,Introduction to Genetics and Evolution,4.83,2797,Duke University,genetics-evolution,medical,https://www.coursera.org/learn/genetics-evolution,2019,4,13510
+321,Introduction to Genomic Technologies,4.46,3103,Johns Hopkins University,introduction-genomics,computer,https://www.coursera.org/learn/introduction-genomics,2016,11,13839
+322,Introduction to Git and GitHub,4.82,3432,Google,introduction-git-github,computer,https://www.coursera.org/learn/introduction-git-github,2015,11,16542
+323,Introduction to HTML5,4,3071,University of Michigan,html,coding / website,https://www.coursera.org/learn/html,2015,11,12284
+324,Introduction to Healthcare,4,2527,Stanford University,intro-to-healthcare,medical,https://www.coursera.org/learn/intro-to-healthcare,2012,4,10108
+325,Introduction to Intellectual Property,4.83,1712,University of Pennsylvania,introduction-intellectual-property,arts,https://www.coursera.org/learn/introduction-intellectual-property,2015,3,8269
+326,Introduction to International Criminal Law,4.81,1293,Case Western Reserve University,international-criminal-law,law,https://www.coursera.org/learn/international-criminal-law,2018,4,6219
+327,Introduction to Machine Learning,4.68,5610,Duke University,machine-learning-duke,ml / coding,https://www.coursera.org/learn/machine-learning-duke,2013,6,26255
+328,Introduction to Marketing,4.73,2168,University of Pennsylvania,wharton-marketing,commerce,https://www.coursera.org/learn/wharton-marketing,2012,10,10255
+329,Introduction to Mathematical Thinking,4.81,2972,Stanford University,mathematical-thinking,maths,https://www.coursera.org/learn/mathematical-thinking,2018,7,14295
+330,Introduction to Molecular Spectroscopy,4.65,1805,University of Manchester,spectroscopy,arts,https://www.coursera.org/learn/spectroscopy,2018,3,8393
+331,Introduction to negotiation: A Strategic Playbook for Becoming a Principled and Persuasive negotiator,4.92,1920,Yale University,negotiation,arts,https://www.coursera.org/learn/negotiation,2015,3,9446
+332,Introduction to neuroeconomics: How the Brain Makes Decisions,4.63,2349,national Research University Higher School of Economics,neuroeconomics,science,https://www.coursera.org/learn/neuroeconomics,2020,12,10876
+333,Introduction to Operations Management,4.28,1462,University of Pennsylvania,wharton-operations,management,https://www.coursera.org/learn/wharton-operations,2020,1,6257
+334,Introduction to Personal Branding,4.49,1991,University of Virginia,personal-branding,arts,https://www.coursera.org/learn/personal-branding,2015,3,8940
+335,Introduction to Philosophy,4.71,1708,The University of Edinburgh,philosophy,arts,https://www.coursera.org/learn/philosophy,2017,3,8045
+336,Introduction to Portfolio Construction and Analysis with Python,4.75,5197,EDHEC Business School,introduction-portfolio-construction-python,python / coding,https://www.coursera.org/learn/introduction-portfolio-construction-python,2012,6,24686
+337,Introduction to Probability and Data with R,4.63,3172,Duke University,probability-intro,data / coding / computer,https://www.coursera.org/learn/probability-intro,2020,11,14686
+338,Introduction to Programming with MATLAB,4.83,3185,Vanderbilt University,matlab,coding,https://www.coursera.org/learn/matlab,2012,11,15384
+339,Introduction to Psychology,4.85,1815,Yale University,introduction-psychology,arts,https://www.coursera.org/learn/introduction-psychology,2014,3,8803
+340,Introduction to Public Speaking,4.83,1578,University of Washington,public-speaking,arts,https://www.coursera.org/learn/public-speaking,2015,3,7622
+341,Introduction to Search Engine Optimization,4.6,3052,"University of California, Davis",search-engine-optimization,coding / computer,https://www.coursera.org/learn/search-engine-optimization,2016,11,14039
+342,"Introduction to Self-Determination Theory: An approach to motivation, development and wellness",4.91,1933,University of Rochester,self-determination-theory,arts,https://www.coursera.org/learn/self-determination-theory,2016,3,9491
+343,Introduction to Self-Driving Cars,4.66,2285,University of Toronto,intro-self-driving-cars,science,https://www.coursera.org/learn/intro-self-driving-cars,2012,12,10648
+344,Introduction to Social Media Marketing,4.89,1918,Facebook,social-media-marketing-introduction,arts,https://www.coursera.org/learn/social-media-marketing-introduction,2020,3,9379
+345,Introduction to Software Product Management,4.59,3229,University of Alberta,introduction-to-software-product-management,computer / management,https://www.coursera.org/learn/introduction-to-software-product-management,2020,1,14821
+346,Introduction to Spreadsheets and Models,3.63,3080,University of Pennsylvania,wharton-introduction-spreadsheets-models,computer,https://www.coursera.org/learn/wharton-introduction-spreadsheets-models,2014,6,11180
+347,Introduction to Statistics & Data Analysis in Public Health,4.68,2952,Imperial College London,introduction-statistics-data-analysis-public-health,medical,https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health,2015,4,13815
+348,Introduction to Structured Query Language (SQL),4.77,2354,University of Michigan,intro-sql,sql / coding,https://www.coursera.org/learn/intro-sql,2016,11,11229
+349,Introduction to Sustainability,4.77,1866,University of Illinois at Urbana-Champaign,sustainability,arts,https://www.coursera.org/learn/sustainability,2015,3,8901
+350,Introduction to Systematic Review and Meta-Analysis,4.85,1525,Johns Hopkins University,systematic-review,arts,https://www.coursera.org/learn/systematic-review,2013,3,7396
+351,Introduction to Systems Engineering,4.78,2401,UnSW Sydney (The University of new South Wales),systems-engineering,science,https://www.coursera.org/learn/systems-engineering,2013,12,11477
+352,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.66,3498,DeepLearning.AI,introduction-tensorflow,coding,https://www.coursera.org/learn/introduction-tensorflow,2017,11,16301
+353,"Introduction to Trading, Machine Learning & GCP",3.4,5540,new York Institute of Finance,introduction-trading-machine-learning-gcp,ml / coding,https://www.coursera.org/learn/introduction-trading-machine-learning-gcp,2014,4,18836
+354,Introduction to Typography,4.78,2295,California Institute of the Arts,typography,science,https://www.coursera.org/learn/typography,2013,12,10970
+355,Introduction to User Experience Design,4.47,2496,Georgia Institute of Technology,user-experience-design,designing,https://www.coursera.org/learn/user-experience-design,2020,9,11157
+356,Introduction to User Experience Principles and Processes,4.79,2165,University of Michigan,introtoux-principles-and-processes,science,https://www.coursera.org/learn/introtoux-principles-and-processes,2013,12,10370
+357,Introduction to Web Development,4.66,3463,"University of California, Davis",web-development,coding / website,https://www.coursera.org/learn/web-development,2012,11,16138
+358,Introduction to the Biology of Cancer,4.81,2617,Johns Hopkins University,cancer,medical,https://www.coursera.org/learn/cancer,2013,4,12588
+359,Introduction to the Digital Advertising Landscape,4.47,2034,University of Colorado Boulder,digital-advertising-landscape,commerce,https://www.coursera.org/learn/digital-advertising-landscape,2016,10,9092
+360,Introductory Human Physiology,4.78,1785,Duke University,physiology,arts,https://www.coursera.org/learn/physiology,2013,3,8532
+361,Introducao a Ciencia da Computacao com Python Parte 1,4.84,1543,Universidade de Sao Paulo,ciencia-computacao-python-conceitos,foreign,https://www.coursera.org/learn/ciencia-computacao-python-conceitos,2012,5,7468
+362,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,4.6,1299,HEC Paris,investment-management,management,https://www.coursera.org/learn/investment-management,2012,1,5975
+363,Japanese for beginners 1,3.36,1892,Saint Petersburg State University,japanese-1,foreign / language,https://www.coursera.org/learn/japanese-1,2013,5,6357
+364,Java Programming: Solving Problems with Software,4.5,5352,Duke University,java-programming,java / coding,https://www.coursera.org/learn/java-programming,2013,6,24084
+365,Kotlin for Java Developers,4.55,5046,JetBrains,kotlin-for-java-developers,java / coding,https://www.coursera.org/learn/kotlin-for-java-developers,2013,6,22959
+366,L'excellence operationnelle en pratique,4.68,1612,ESSEC Business School,excellence-operationnelle,foreign,https://www.coursera.org/learn/excellence-operationnelle,2015,5,7544
+367,Leadership in 21st Century Organizations,4.77,1816,Copenhagen Business School,leadership-21st-century,arts,https://www.coursera.org/learn/leadership-21st-century,2016,3,8662
+368,Leading Healthcare Quality and Safety,4.84,2685,The George Washington University,quality-healthcare,medical,https://www.coursera.org/learn/quality-healthcare,2019,4,12995
+369,"Leading for Equity, Diversity and Inclusion in Higher Education",4.78,1792,University of Michigan,leading-for-equity-diversity-inclusion,arts,https://www.coursera.org/learn/leading-for-equity-diversity-inclusion,2018,3,8566
+370,Leading transformations: Manage change,4.31,1407,Macquarie University,change-management,management,https://www.coursera.org/learn/change-management,2019,1,6064
+371,Learn to Program: The Fundamentals,4.75,3005,University of Toronto,learn-to-program,coding,https://www.coursera.org/learn/learn-to-program,2020,11,14274
+372,Learn to Speak Korean 1,4.89,1182,Yonsei University,learn-speak-korean1,language / foreign,https://www.coursera.org/learn/learn-speak-korean1,2014,5,5780
+373,Learning How to Learn: Powerful mental tools to help you master tough subjects,4.8,1742,University of California San Diego,learning-how-to-learn,arts,https://www.coursera.org/learn/learning-how-to-learn,2017,3,8362
+374,Learning to Teach Online,4.8,1603,UnSW Sydney (The University of new South Wales),teach-online,arts,https://www.coursera.org/learn/teach-online,2016,3,7694
+375,Legal Tech & Startups,4.01,1702,IE Business School,legal-tech-startups,entrepreneur,https://www.coursera.org/learn/legal-tech-startups,2015,1,6825
+376,Les Fondamentaux de la negociation,4.86,1514,ESSEC Business School,fondamentaux-negociation,foreign,https://www.coursera.org/learn/fondamentaux-negociation,2013,5,7358
+377,Love as a Force for Social Justice,4.58,1968,Stanford University,love-social-justice,arts,https://www.coursera.org/learn/love-social-justice,2018,3,9013
+378,Machine Learning,4.75,5563,Stanford University,machine-learning,ml / coding,https://www.coursera.org/learn/machine-learning,2013,6,26424
+379,Machine Learning Foundations: A Case Study Approach,4.5,5464,University of Washington,ml-foundations,ml / coding,https://www.coursera.org/learn/ml-foundations,2015,6,24588
+380,Machine Learning for All,4.69,5446,University of London,uol-machine-learning-for-all,ml / coding,https://www.coursera.org/learn/uol-machine-learning-for-all,2020,6,25542
+381,Machine Learning for Business Professionals,4.58,5104,Google Cloud,machine-learning-business-professionals,ml / coding,https://www.coursera.org/learn/machine-learning-business-professionals,2016,6,23376
+382,Machine Learning with Python,4.52,5639,IBM,machine-learning-with-python,ml / coding,https://www.coursera.org/learn/machine-learning-with-python,2012,6,25488
+383,Magic in the Middle Ages,4.56,1792,Universitat de Barcelona,magic-middle-ages,arts,https://www.coursera.org/learn/magic-middle-ages,2014,3,8172
+384,Making Architecture,4.82,1905,IE School of Architecture & Design,making-architecture,arts,https://www.coursera.org/learn/making-architecture,2018,3,9182
+385,Management of Fashion and Luxury Companies,4.71,2100,Universita Bocconi,mafash,designing,https://www.coursera.org/learn/mafash,2012,9,9891
+386,Managerial Accounting Fundamentals,4.87,2104,University of Virginia,uva-darden-managerial-accounting,commerce,https://www.coursera.org/learn/uva-darden-managerial-accounting,2020,10,10246
+387,Managing Project Risks and Changes,4.78,1294,"University of California, Irvine",project-risk-management,management,https://www.coursera.org/learn/project-risk-management,2018,1,6185
+388,Managing an Agile Team,4.7,1024,University of Virginia,uva-darden-agile-team-management,management,https://www.coursera.org/learn/uva-darden-agile-team-management,2015,1,4813
+389,Managing as a Coach,4.78,1473,"University of California, Davis",managing-as-a-coach,management,https://www.coursera.org/learn/managing-as-a-coach,2012,1,7041
+390,Managing the Company of the Future,4.84,1287,London Business School,company-future-management,management,https://www.coursera.org/learn/company-future-management,2013,1,6229
+391,Marketing Analytics,4.65,2469,University of Virginia,uva-darden-market-analytics,commerce,https://www.coursera.org/learn/uva-darden-market-analytics,2013,10,11481
+392,Marketing Digital,4.8,2422,Universidade de Sao Paulo,estrategia-marketing-digital,commerce,https://www.coursera.org/learn/estrategia-marketing-digital,2019,10,11626
+393,Marketing Gerencial,4.72,2385,Universidad de Chile,marketing-gerencial,commerce,https://www.coursera.org/learn/marketing-gerencial,2014,10,11257
+394,Marketing in a Digital World,4.73,2105,University of Illinois at Urbana-Champaign,marketing-digital,commerce,https://www.coursera.org/learn/marketing-digital,2014,10,9957
+395,Mastering Data Analysis in Excel,3.84,3253,Duke University,analytics-excel,data / computer,https://www.coursera.org/learn/analytics-excel,2012,6,12492
+396,Mastering Final Cut Pro,4.5,3030,LearnQuest,mastering-final-cut-pro,computer / editing,https://www.coursera.org/learn/mastering-final-cut-pro,2016,6,13635
+397,Mathematical Thinking in Computer Science,4.27,2913,University of California San Diego,what-is-a-proof,maths / science,https://www.coursera.org/learn/what-is-a-proof,2013,12,12439
+398,Mathematics for Machine Learning: Linear Algebra,4.61,2887,Imperial College London,linear-algebra-machine-learning,maths,https://www.coursera.org/learn/linear-algebra-machine-learning,2012,7,13309
+399,Mathematics for Machine Learning: Multivariate Calculus,4.72,5269,Imperial College London,multivariate-calculus-machine-learning,ml / maths,https://www.coursera.org/learn/multivariate-calculus-machine-learning,2012,7,24870
+400,Mathematics for Machine Learning: PCA,3.49,5055,Imperial College London,pca-machine-learning,ml / maths,https://www.coursera.org/learn/pca-machine-learning,2015,7,17642
+401,Medical neuroscience,4.91,2549,Duke University,medical-neuroscience,medical,https://www.coursera.org/learn/medical-neuroscience,2018,4,12516
+402,Memoir and Personal Essay: Managing Your Relationship with the Reader,4.39,1628,Wesleyan University,memoir-reader-relationship,arts,https://www.coursera.org/learn/memoir-reader-relationship,2020,3,7147
+403,Microeconomics Principles,4.82,2253,University of Illinois at Urbana-Champaign,microeconomics,commerce,https://www.coursera.org/learn/microeconomics,2012,10,10859
+404,Mind Control: Managing Your Mental Health During COVID-19,4.84,1902,University of Toronto,manage-health-covid-19,arts,https://www.coursera.org/learn/manage-health-covid-19,2012,3,9206
+405,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,4.85,1625,McMaster University,mindshift,arts,https://www.coursera.org/learn/mindshift,2012,3,7881
+406,Miracles of Human Language: An Introduction to Linguistics,4.67,1004,Universiteit Leiden,human-language,language,https://www.coursera.org/learn/human-language,2019,5,4689
+407,Model Thinking,4.77,3415,University of Michigan,model-thinking,computer,https://www.coursera.org/learn/model-thinking,2015,6,16290
+408,Modern Art & Ideas,4.77,1562,The Museum of Modern Art,modern-art-ideas,arts,https://www.coursera.org/learn/modern-art-ideas,2015,3,7451
+409,Modernizing Data Lakes and Data Warehouses with GCP,4.64,3154,Google Cloud,data-lakes-data-warehouses-gcp,data / computer,https://www.coursera.org/learn/data-lakes-data-warehouses-gcp,2013,6,14635
+410,Moral Foundations of Politics,4.85,1682,Yale University,moral-politics,arts,https://www.coursera.org/learn/moral-politics,2016,3,8158
+411,Moralities of Everyday Life,4.82,1759,Yale University,moralities,arts,https://www.coursera.org/learn/moralities,2014,3,8478
+412,More Introduction to Financial Accounting,4.93,2027,University of Pennsylvania,wharton-financial-accounting,commerce,https://www.coursera.org/learn/wharton-financial-accounting,2018,10,9993
+413,Music Business Foundations,4.87,2316,Berklee College of Music,music-business-foundations,music / business,https://www.coursera.org/learn/music-business-foundations,2014,3,11279
+414,nanotechnology: A MakerÃ¯Â¿Â½s Course,4.83,3360,Duke University,nanotechnology,computer,https://www.coursera.org/learn/nanotechnology,2018,6,16229
+415,natural Language Processing in TensorFlow,4.24,3191,DeepLearning.AI,natural-language-processing-tensorflow,coding,https://www.coursera.org/learn/natural-language-processing-tensorflow,2019,11,13530
+416,natural Language Processing with Attention Models,3.33,3329,DeepLearning.AI,attention-models-in-nlp,coding,https://www.coursera.org/learn/attention-models-in-nlp,2012,11,11086
+417,natural Language Processing with Classification and Vector Spaces,4.35,3095,DeepLearning.AI,classification-vector-spaces-in-nlp,coding,https://www.coursera.org/learn/classification-vector-spaces-in-nlp,2016,11,13463
+418,natural Language Processing with Probabilistic Models,4.56,3129,DeepLearning.AI,probabilistic-models-in-nlp,coding,https://www.coursera.org/learn/probabilistic-models-in-nlp,2019,11,14268
+419,natural Language Processing with Sequence Models,3.97,3471,DeepLearning.AI,sequence-models-in-nlp,coding,https://www.coursera.org/learn/sequence-models-in-nlp,2019,11,13780
+420,negociacion exitosa: Estrategias y habilidades esenciales (en espanol),4.8,1791,University of Michigan,negociacion,foreign,https://www.coursera.org/learn/negociacion,2014,5,8597
+421,neural networks and Deep Learning,4.78,3429,DeepLearning.AI,neural-networks-deep-learning,coding,https://www.coursera.org/learn/neural-networks-deep-learning,2013,11,16391
+422,new Approaches to Countering Terror: Countering Violent Extremism,4.84,1788,"University of Maryland, College Park",countering-terror-violent-extremism,arts,https://www.coursera.org/learn/countering-terror-violent-extremism,2014,3,8654
+423,nutricion y obesidad: control de sobrepeso,4.77,1983,Universidad nacional Autonoma de Mexico,nutricion-obesidad-sobrepeso,foreign,https://www.coursera.org/learn/nutricion-obesidad-sobrepeso,2014,5,9459
+424,nutrition and Lifestyle in Pregnancy,4.81,2527,Ludwig-Maximilians-Universitat Munchen (LMU),nutrition-pregnancy,medical,https://www.coursera.org/learn/nutrition-pregnancy,2019,4,12155
+425,Object Oriented Programming in Java,4.7,5386,University of California San Diego,object-oriented-java,java / coding,https://www.coursera.org/learn/object-oriented-java,2019,6,25314
+426,Object-Oriented Data Structures in C++,4.64,5320,University of Illinois at Urbana-Champaign,cs-fundamentals-1,c / coding / computer,https://www.coursera.org/learn/cs-fundamentals-1,2016,11,24685
+427,Object-Oriented Design,4.58,3199,University of Alberta,object-oriented-design,coding / designing,https://www.coursera.org/learn/object-oriented-design,2016,11,14651
+428,Oil & Gas Industry Operations and Markets,4.82,2032,Duke University,oilandgas,commerce,https://www.coursera.org/learn/oilandgas,2014,10,9794
+429,Operating Systems and You: Becoming a Power User,4.51,5279,Google,os-power-user,java / coding,https://www.coursera.org/learn/os-power-user,2019,6,23808
+430,Operations Analytics,4.68,2153,University of Pennsylvania,wharton-operations-analytics,commerce,https://www.coursera.org/learn/wharton-operations-analytics,2020,10,10076
+431,Ordered Data Structures,4.72,3386,University of Illinois at Urbana-Champaign,cs-fundamentals-2,data / coding,https://www.coursera.org/learn/cs-fundamentals-2,2014,11,15982
+432,Osteoarchaeology: The Truth in Our Bones,4.71,2508,Universiteit Leiden,truthinourbones-osteoarchaeology-archaeology,medical,https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology,2019,4,11813
+433,Paleontology: Theropod Dinosaurs and the Origin of Birds,4.9,2333,University of Alberta,theropods-birds,research,https://www.coursera.org/learn/theropods-birds,2019,1,11432
+434,"Penetration Testing, Incident Response and Forensics",4.49,2232,IBM,ibm-penetration-testing-incident-response-forensics,research,https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics,2016,1,10022
+435,People Analytics,4.52,1722,University of Pennsylvania,wharton-people-analytics,arts,https://www.coursera.org/learn/wharton-people-analytics,2019,3,7783
+436,Perfect Tenses and Modals,4.81,3362,"University of California, Irvine",perfect-tenses-modals,computer,https://www.coursera.org/learn/perfect-tenses-modals,2018,11,16171
+437,Personal & Family Financial Planning,4.58,1813,University of Florida,family-planning,arts,https://www.coursera.org/learn/family-planning,2017,3,8304
+438,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,4.68,1843,The University of Edinburgh,philosophy-cognitive-sciences,arts,https://www.coursera.org/learn/philosophy-cognitive-sciences,2020,3,8625
+439,Politics and Economics of International Energy,4.72,1559,Sciences Po,global-energy,arts,https://www.coursera.org/learn/global-energy,2018,3,7358
+440,Population Health During A Pandemic: Contact Tracing and Beyond,4.8,2893,University of Houston,contact-tracing-for-covid-19,medical,https://www.coursera.org/learn/contact-tracing-for-covid-19,2019,4,13886
+441,Positive Psychiatry and Mental Health,4.89,1538,The University of Sydney,positive-psychiatry,arts,https://www.coursera.org/learn/positive-psychiatry,2016,3,7521
+442,Positive Psychology,4.66,1773,The University of north Carolina at Chapel Hill,positive-psychology,arts,https://www.coursera.org/learn/positive-psychology,2013,3,8262
+443,Positive Psychology: Applications and Interventions,4.86,1995,University of Pennsylvania,positive-psychology-applications,arts,https://www.coursera.org/learn/positive-psychology-applications,2013,3,9696
+444,Positive Psychology: Martin E. P. SeligmanÃ¯Â¿Â½s Visionary Science,4.9,1915,University of Pennsylvania,positive-psychology-visionary-science,arts,https://www.coursera.org/learn/positive-psychology-visionary-science,2013,3,9384
+445,Positive Psychology: Resilience Skills,4.91,1932,University of Pennsylvania,positive-psychology-resilience,arts,https://www.coursera.org/learn/positive-psychology-resilience,2014,3,9486
+446,Practical Time Series Analysis,4.49,1647,The State University of new York,practical-time-series-analysis,arts,https://www.coursera.org/learn/practical-time-series-analysis,2020,3,7395
+447,Preparing for the Google Cloud Associate Cloud Engineer Exam,4.64,3173,Google Cloud,preparing-cloud-associate-cloud-engineer-exam,computer,https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam,2019,11,14723
+448,Preparing for the Google Cloud Professional Cloud Architect Exam,4.47,3361,Google Cloud,preparing-cloud-professional-cloud-architect-exam,computer,https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam,2015,11,15024
+449,Preparing to Manage Human Resources,4.86,1288,University of Minnesota,managing-human-resources,management,https://www.coursera.org/learn/managing-human-resources,2014,1,6260
+450,Primeros Auxilios Psicologicos (PAP),4.87,1829,Universitat Autonoma de Barcelona,pap,foreign,https://www.coursera.org/learn/pap,2012,5,8907
+451,Principles of Sustainable Finance,4.91,2121,Erasmus University Rotterdam,sustainable-finance,commerce,https://www.coursera.org/learn/sustainable-finance,2015,10,10414
+452,Privacy Law and Data Protection,4.84,1384,University of Pennsylvania,privacy-law-data-protection,law,https://www.coursera.org/learn/privacy-law-data-protection,2016,4,6699
+453,Private Equity and Venture Capital,4.76,2361,Universita Bocconi,private-equity,commerce,https://www.coursera.org/learn/private-equity,2013,10,11238
+454,Probability and Statistics: To p or not to p?,4.68,2815,University of London,probability-statistics,maths,https://www.coursera.org/learn/probability-statistics,2018,7,13174
+455,Process Mining: Data science in Action,4.79,3143,Eindhoven University of Technology,process-mining,data/coding,https://www.coursera.org/learn/process-mining,2014,11,15055
+456,"Programming Foundations with JavaScript, HTML and CSS",4.55,3182,Duke University,duke-programming-web,coding / website,https://www.coursera.org/learn/duke-programming-web,2018,11,14478
+457,Programming Fundamentals,4.65,3441,Duke University,programming-fundamentals,coding,https://www.coursera.org/learn/programming-fundamentals,2013,11,16001
+458,"Programming Languages, Part A",4.94,3021,University of Washington,programming-languages,coding,https://www.coursera.org/learn/programming-languages,2013,11,14924
+459,Programming for Everybody (Getting Started with Python),4.58,3231,University of Michigan,python,coding / computer,https://www.coursera.org/learn/python,2016,11,14798
+460,Project Execution,3.93,1516,"University of California, Irvine",project-execution,arts,https://www.coursera.org/learn/project-execution,2014,43,5958
+461,Project Launch,4.39,1733,"University of California, Irvine",project-management,arts,https://www.coursera.org/learn/project-management,2018,3,7608
+462,Project Planning,4.35,1654,"University of California, Irvine",project-planning-1,arts,https://www.coursera.org/learn/project-planning-1,2020,3,7195
+463,Psychological First Aid,4.87,1881,Johns Hopkins University,psychological-first-aid,arts,https://www.coursera.org/learn/psychological-first-aid,2016,3,9160
+464,Public Policy Challenges of the 21st Century,4.57,1542,University of Virginia,public-policy,arts,https://www.coursera.org/learn/public-policy,2014,3,7047
+465,Python Basics,4.81,5063,University of Michigan,python-basics,python / coding,https://www.coursera.org/learn/python-basics,2019,6,24353
+466,Python Data Structures,4.85,3699,University of Michigan,python-data,python / data / coding,https://www.coursera.org/learn/python-data,2014,6,17940
+467,"Python Functions, Files, and Dictionaries",4.81,5214,University of Michigan,python-functions-files-dictionaries,python / coding,https://www.coursera.org/learn/python-functions-files-dictionaries,2016,6,25079
+468,Python Programming: A Concise Introduction,4.62,5213,Wesleyan University,python-programming-introduction,python / coding,https://www.coursera.org/learn/python-programming-introduction,2015,6,24084
+469,Python and Statistics for Financial Analysis,4.36,7525,The Hong Kong University of Science and Technology,python-statistics-financial-analysis,python / maths,https://www.coursera.org/learn/python-statistics-financial-analysis,2013,6,32809
+470,Python for Data Science and AI,4.31,5683,IBM,python-for-applied-data-science-ai,ai / python / data / coding,https://www.coursera.org/learn/python-for-applied-data-science-ai,2014,6,24494
+471,Quantitative Methods,4.75,2304,University of Amsterdam,quantitative-methods,science,https://www.coursera.org/learn/quantitative-methods,2012,12,10944
+472,R Programming,4.24,3104,Johns Hopkins University,r-programming,coding,https://www.coursera.org/learn/r-programming,2017,11,13161
+473,Race and Cultural Diversity in American Life and History,4.41,1821,University of Illinois at Urbana-Champaign,race-cultural-diversity-american-life,arts,https://www.coursera.org/learn/race-cultural-diversity-american-life,2016,3,8031
+474,"Recruiting, Hiring, and Onboarding Employees",3.84,1777,University of Minnesota,recruiting-hiring-onboarding-employees,arts,https://www.coursera.org/learn/recruiting-hiring-onboarding-employees,2018,3,6824
+475,Refugees in the 21st Century,4.76,1754,University of London,refugees-21st-century,arts,https://www.coursera.org/learn/refugees-21st-century,2013,3,8349
+476,Reliable Google Cloud Infrastructure: Design and Process,4.7,3464,Google Cloud,cloud-infrastructure-design-process,coding,https://www.coursera.org/learn/cloud-infrastructure-design-process,2013,11,16281
+477,Removing Barriers to Change,5,1769,University of Pennsylvania,removing-barriers-to-change,arts,https://www.coursera.org/learn/removing-barriers-to-change,2012,3,8845
+478,Renewable Energy and Green Building Entrepreneurship,4.75,1506,Duke University,renewable-energy-entrepreneurship,entrepreneur,https://www.coursera.org/learn/renewable-energy-entrepreneurship,2020,1,7154
+479,Reporting extra-financier et strategie RSE,4.58,1118,ESSEC Business School,reporting-extra-financier-strategie-rse,business,https://www.coursera.org/learn/reporting-extra-financier-strategie-rse,2020,1,5120
+480,Research Data Management and Sharing,4.73,2285,The University of Edinburgh,data-management,research / management,https://www.coursera.org/learn/data-management,2018,1,10808
+481,Rethinking International Tax Law,4.82,1070,Universiteit Leiden,international-taxation,law,https://www.coursera.org/learn/international-taxation,2014,4,5157
+482,Revisao Sistematica e Meta-analise,4.9,1690,Universidade Estadual de Campinas,revisao-sistematica,foreign,https://www.coursera.org/learn/revisao-sistematica,2016,5,8281
+483,Roman Architecture,4.84,1554,Yale University,roman-architecture,arts / history,https://www.coursera.org/learn/roman-architecture,2019,3,7521
+484,Redaction de contrats,4.84,1751,University of Geneva,contrats,foreign,https://www.coursera.org/learn/contrats,2015,5,8475
+485,Reussir le Changement,4.41,1636,ESSEC Business School,reussir-le-changement,foreign,https://www.coursera.org/learn/reussir-le-changement,2016,5,7215
+486,SQL for Data Science,4.51,2218,"University of California, Davis",sql-for-data-science,sql / data / coding,https://www.coursera.org/learn/sql-for-data-science,2018,11,10003
+487,Sample-based Learning Methods,4.48,2243,Alberta Machine Intelligence Institute,sample-based-learning-methods,science,https://www.coursera.org/learn/sample-based-learning-methods,2019,12,10049
+488,Schizophrenia,4.68,1683,Wesleyan University,schizophrenia,arts,https://www.coursera.org/learn/schizophrenia,2018,3,7876
+489,Science of Exercise,4.85,2205,University of Colorado Boulder,science-exercise,science,https://www.coursera.org/learn/science-exercise,2017,12,10694
+490,Search Engine Optimization Fundamentals,4.72,3119,"University of California, Davis",seo-fundamentals,coding,https://www.coursera.org/learn/seo-fundamentals,2014,11,14722
+491,Seeing Through Photographs,4.78,1534,The Museum of Modern Art,photography,arts,https://www.coursera.org/learn/photography,2015,3,7333
+492,Sequence Models,4.64,2285,DeepLearning.AI,nlp-sequence-models,science,https://www.coursera.org/learn/nlp-sequence-models,2020,12,10602
+493,"Sequences, Time Series and Prediction",4.51,2145,DeepLearning.AI,tensorflow-sequences-time-series-and-prediction,science,https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction,2013,12,9674
+494,Site Reliability Engineering: Measuring and Managing Reliability,4.25,2454,Google Cloud,site-reliability-engineering-slos,science,https://www.coursera.org/learn/site-reliability-engineering-slos,2019,12,10430
+495,Six Sigma Principles,4.56,2155,University System of Georgia,six-sigma-principles,science,https://www.coursera.org/learn/six-sigma-principles,2014,12,9827
+496,Six Sigma and the Organization (Advanced),4.7,2418,University System of Georgia,six-sigma-organization-advanced,science,https://www.coursera.org/learn/six-sigma-organization-advanced,2019,12,11365
+497,"Sleep: neurobiology, Medicine, and Society",4.77,1917,University of Michigan,sleep,arts,https://www.coursera.org/learn/sleep,2019,3,9144
+498,Smart Cities Ã¯Â¿Â½ Management of Smart Urban Infrastructures,4.63,1135,ecole Polytechnique Federale de Lausanne,smart-cities,management,https://www.coursera.org/learn/smart-cities,2019,1,5255
+499,Social Impact Strategy: Tools for Entrepreneurs and Innovators,4.85,1986,University of Pennsylvania,social-impact,entrepreneur,https://www.coursera.org/learn/social-impact,2014,1,9632
+500,"Social norms, Social Change I",4.6,1971,Unicef,norms,arts,https://www.coursera.org/learn/norms,2015,3,9067
+501,Social Psychology,4.89,1569,Wesleyan University,social-psychology,arts,https://www.coursera.org/learn/social-psychology,2016,3,7672
+502,Social Work Practice: Advocating Social Justice and Change,4.8,1575,University of Michigan,social-work-practice-advocating-social-justice-and-change,arts,https://www.coursera.org/learn/social-work-practice-advocating-social-justice-and-change,2015,3,7560
+503,Social and Economic networks:  Models and Analysis,1,2235,Stanford University,social-economic-networks,commerce,https://www.coursera.org/learn/social-economic-networks,2016,10,2235
+504,Software Processes and Agile Practices,4.69,3121,University of Alberta,software-processes-and-agile-practices,coding / computer,https://www.coursera.org/learn/software-processes-and-agile-practices,2019,11,14637
+505,Solar Energy Basics,4.82,2274,The State University of new York,solar-energy-basics,science,https://www.coursera.org/learn/solar-energy-basics,2012,12,10961
+506,Songwriting: Writing the Lyrics,4.72,2417,Berklee College of Music,songwriting-lyrics,music,https://www.coursera.org/learn/songwriting-lyrics,2015,3,11408
+507,Spanish Vocabulary: Meeting People,4.54,1670,"University of California, Davis",spanish-vocabulary-meeting-people,foreigm / language,https://www.coursera.org/learn/spanish-vocabulary-meeting-people,2015,5,7582
+508,Spanish for Successful Communication in Healthcare Settings,4,1631,Rice University,spanish-in-healthcare-settings,foreign / language,https://www.coursera.org/learn/spanish-in-healthcare-settings,2017,5,6524
+509,"Speak English Professionally: In Person, Online & On the Phone",4.77,1580,Georgia Institute of Technology,speak-english-professionally,foreign / language,https://www.coursera.org/learn/speak-english-professionally,2013,5,7537
+510,Sports Marketing,4.66,2025,northwestern University,sports-marketing,sports / commerce,https://www.coursera.org/learn/sports-marketing,2014,3,9437
+511,Sports and Society,4.86,2325,Duke University,sports-society,sports / arts,https://www.coursera.org/learn/sports-society,2015,3,11300
+512,Stanford Introduction to Food and Health,4.71,2588,Stanford University,food-and-health,medical,https://www.coursera.org/learn/food-and-health,2012,4,12189
+513,Stochastic processes,4.2,2196,national Research University Higher School of Economics,stochasticprocesses,science,https://www.coursera.org/learn/stochasticprocesses,2018,12,9223
+514,Strategic Business Management - Microeconomics,4.79,855,"University of California, Irvine",strategic-business-management-microeconomics,business / management,https://www.coursera.org/learn/strategic-business-management-microeconomics,2014,1,4095
+515,Strategic Management,4.78,1437,Copenhagen Business School,strategic-management,management,https://www.coursera.org/learn/strategic-management,2019,1,6869
+516,Structuring Machine Learning Projects,4.71,5003,DeepLearning.AI,machine-learning-projects,ml / coding,https://www.coursera.org/learn/machine-learning-projects,2020,6,23564
+517,Success,4.93,1799,University of Pennsylvania,wharton-success,arts,https://www.coursera.org/learn/wharton-success,2014,3,8869
+518,Successful negotiation: Essential Strategies and Skills,4.81,1821,University of Michigan,negotiation-skills,arts,https://www.coursera.org/learn/negotiation-skills,2015,3,8759
+519,Summary Statistics in Public Health,4.79,1694,Johns Hopkins University,summary-statistics,arts,https://www.coursera.org/learn/summary-statistics,2016,3,8114
+520,Supply Chain Logistics,4.72,3046,Rutgers the State University of new Jersey,supply-chain-logistics,computer,https://www.coursera.org/learn/supply-chain-logistics,2014,6,14377
+521,Supply Chain Principles,4.56,3440,Georgia Institute of Technology,supply-chain-principles,computer,https://www.coursera.org/learn/supply-chain-principles,2019,6,15686
+522,Supporting children with difficulties in reading and writing,4.76,1555,University of London,dyslexia-difficulties,arts,https://www.coursera.org/learn/dyslexia-difficulties,2017,3,7402
+523,Sustainable Fashion,4.84,2370,Copenhagen Business School,sustainable-fashion,designing,https://www.coursera.org/learn/sustainable-fashion,2020,3,11471
+524,Sustainable Tourism Ã¯Â¿Â½ promoting environmental public health,4.58,1989,University of Copenhagen,sustainable-tourism,arts,https://www.coursera.org/learn/sustainable-tourism,2018,3,9110
+525,System Administration and IT Infrastructure Services,4.66,2157,Google,system-administration-it-infrastructure-services,science,https://www.coursera.org/learn/system-administration-it-infrastructure-services,2016,12,10052
+526,Systems Thinking In Public Health,4.4,1917,Johns Hopkins University,systems-thinking,arts,https://www.coursera.org/learn/systems-thinking,2016,3,8435
+527,Teach English now! Foundational Principles,4.92,1849,Arizona State University,english-principles,foreign / language,https://www.coursera.org/learn/english-principles,2013,5,9097
+528,Teach English now! Teaching Language Online,4.61,1878,Arizona State University,teachlanguageonline,foreign / language,https://www.coursera.org/learn/teachlanguageonline,2018,5,8658
+529,Teamwork Skills: Communicating Effectively in Groups,4.78,1527,University of Colorado Boulder,teamwork-skills-effective-communication,arts,https://www.coursera.org/learn/teamwork-skills-effective-communication,2018,3,7299
+530,Technical Support Fundamentals,4.78,3388,Google,technical-support-fundamentals,computer,https://www.coursera.org/learn/technical-support-fundamentals,2018,11,16195
+531,Terrorism and Counterterrorism: Comparing Theory and Practice,4.74,1818,Universiteit Leiden,terrorism,arts,https://www.coursera.org/learn/terrorism,2017,3,8617
+532,The Addicted Brain,4.55,2808,Emory University,addiction-and-the-brain,medical,https://www.coursera.org/learn/addiction-and-the-brain,2018,4,12776
+533,The Art of Music Production,4.84,2229,Berklee College of Music,producing-music,music,https://www.coursera.org/learn/producing-music,2015,3,10788
+534,The Arts and Science of Relationships: Understanding Human needs,4.37,1749,University of Toronto,human-needs,arts,https://www.coursera.org/learn/human-needs,2014,3,7643
+535,The Bits and Bytes of Computer networking,4.65,3011,Google,computer-networking,computer,https://www.coursera.org/learn/computer-networking,2019,6,14001
+536,The Business of Product Management I,4.33,151,Advancing Women in Product,the-business-of-product-management-one,business / management,https://www.coursera.org/learn/the-business-of-product-management-one,2015,1,654
+537,The Cycle: Management of Successful Arts and Cultural Organizations,4.86,1118,"University of Maryland, College Park",the-cycle,management,https://www.coursera.org/learn/the-cycle,2015,1,5433
+538,The Data ScientistÃ¯Â¿Â½s Toolbox,4.49,3039,Johns Hopkins University,data-scientists-tools,data  /  computer,https://www.coursera.org/learn/data-scientists-tools,2012,11,13645
+539,The Global Financial Crisis,4.83,2005,Yale University,global-financial-crisis,commerce,https://www.coursera.org/learn/global-financial-crisis,2015,10,9684
+540,The Horse Course: Introduction to Basic Care and Management,4.96,1360,University of Florida,horse-care,management,https://www.coursera.org/learn/horse-care,2014,1,6746
+541,The Introduction to Quantum Computing,3.31,2265,Saint Petersburg State University,quantum-computing-algorithms,science,https://www.coursera.org/learn/quantum-computing-algorithms,2015,12,7497
+542,The Manager's Toolkit: A Practical Guide to Managing People at Work,4.68,1246,"Birkbeck, University of London",people-management,management,https://www.coursera.org/learn/people-management,2017,1,5831
+543,"The Modern World, Part One: Global History from 1760 to 1910",4.85,1798,University of Virginia,modern-world,history,https://www.coursera.org/learn/modern-world,2012,2,8720
+544,"The Modern World, Part Two: Global History since 1910",4.88,1570,University of Virginia,modern-world-2,history,https://www.coursera.org/learn/modern-world-2,2016,2,7662
+545,The Oral Cavity: Portal to Health and Disease,4.9,2824,University of Pennsylvania,oralcavity,medical,https://www.coursera.org/learn/oralcavity,2019,4,13838
+546,The Power of Macroeconomics: Economic Principles in the Real World,4.64,2173,"University of California, Irvine",principles-of-macroeconomics,commerce,https://www.coursera.org/learn/principles-of-macroeconomics,2015,10,10083
+547,The Power of Microeconomics: Economic Principles in the Real World,4.66,2272,"University of California, Irvine",principles-of-microeconomics,commerce,https://www.coursera.org/learn/principles-of-microeconomics,2015,10,10588
+548,The Science of Stem Cells,4.74,2400,American Museum of natural History,stem-cells,science / medical,https://www.coursera.org/learn/stem-cells,2017,6,11376
+549,The Science of Success: What Researchers Know that You Should Know,4.85,1671,University of Michigan,success,arts,https://www.coursera.org/learn/success,2015,3,8104
+550,The Science of Well-Being,4.93,1787,Yale University,the-science-of-well-being,arts,https://www.coursera.org/learn/the-science-of-well-being,2016,3,8810
+551,The Social Context of Mental Health and Illness,4.56,1803,University of Toronto,mental-health,arts,https://www.coursera.org/learn/mental-health,2018,3,8222
+552,The Strategy of Content Marketing,4.47,2088,"University of California, Davis",content-marketing,commerce,https://www.coursera.org/learn/content-marketing,2018,10,9333
+553,"The Sustainable Development Goals Ã¯Â¿Â½ A global, transdisciplinary vision for the future",4.79,1589,University of Copenhagen,global-sustainable-development,arts,https://www.coursera.org/learn/global-sustainable-development,2013,3,7611
+554,The Technology of Music Production,4.9,2449,Berklee College of Music,technology-of-music-production,music,https://www.coursera.org/learn/technology-of-music-production,2014,3,12000
+555,The Truth About Cats and Dogs,4.75,7341,The University of Edinburgh,cats-and-dogs,animals,https://www.coursera.org/learn/cats-and-dogs,2019,3,34870
+556,Think Again I: How to Understand Arguments,4.58,1934,Duke University,understanding-arguments,arts,https://www.coursera.org/learn/understanding-arguments,2020,3,8858
+557,Tools for Data Science,4.04,3295,IBM,open-source-tools-for-data-science,data / computer,https://www.coursera.org/learn/open-source-tools-for-data-science,2013,11,13312
+558,Transformation of the Global Food System,4.83,2998,University of Copenhagen,transformation-global-food-system,medical,https://www.coursera.org/learn/transformation-global-food-system,2019,4,14480
+559,"Transmedia Storytelling: narrative worlds, emerging technologies, and global audiences",4.74,1557,UnSW Sydney (The University of new South Wales),transmedia-storytelling,arts,https://www.coursera.org/learn/transmedia-storytelling,2015,3,7380
+560,Tricky American English Pronunciation,4.72,1044,"University of California, Irvine",tricky-american-english-pronunciation,language / foreign,https://www.coursera.org/learn/tricky-american-english-pronunciation,2018,5,4928
+561,Troubles du spectre de l'autisme : diagnostic,4.85,1555,University of Geneva,troubles-spectre-autisme-diagnostic,foreign,https://www.coursera.org/learn/troubles-spectre-autisme-diagnostic,2018,5,7542
+562,Troubleshooting and Debugging Techniques,4.34,3268,Google,troubleshooting-debugging-techniques,computer,https://www.coursera.org/learn/troubleshooting-debugging-techniques,2018,6,14183
+563,UX  /  UI: Fundamentos para o design de interface,4.34,2220,Universidade de Sao Paulo,ux-ui-design-de-interface,designing / coding,https://www.coursera.org/learn/ux-ui-design-de-interface,2017,9,9635
+564,UX Design Fundamentals,4.79,2379,California Institute of the Arts,ux-design-fundamentals,designing,https://www.coursera.org/learn/ux-design-fundamentals,2018,9,11395
+565,Understanding Clinical Research: Behind the Statistics,4.81,2405,University of Cape Town,clinical-research,research,https://www.coursera.org/learn/clinical-research,2020,1,11568
+566,Understanding Einstein: The Special Theory of Relativity,4.89,2464,Stanford University,einstein-relativity,science,https://www.coursera.org/learn/einstein-relativity,2017,12,12049
+567,Understanding Financial Markets,4.73,2067,University of Geneva,understanding-financial-markets,commerce,https://www.coursera.org/learn/understanding-financial-markets,2017,10,9777
+568,Understanding International Relations Theory,4.66,1704,national Research University Higher School of Economics,international-relations-theory,arts,https://www.coursera.org/learn/international-relations-theory,2016,3,7941
+569,Understanding Medical Research: Your Facebook Friend is Wrong,4.92,2761,Yale University,medical-research,medical / research,https://www.coursera.org/learn/medical-research,2012,4,13584
+570,Understanding Plants - Part I: What a Plant Knows,4.81,2677,Tel Aviv University,plantknows,medical,https://www.coursera.org/learn/plantknows,2014,4,12876
+571,Understanding Research Methods,4.58,2224,University of London,research-methods,research,https://www.coursera.org/learn/research-methods,2015,2,10186
+572,Understanding and Visualizing Data with Python,4.64,7588,University of Michigan,understanding-visualization-data,python / data / computer,https://www.coursera.org/learn/understanding-visualization-data,2018,6,35208
+573,Understanding child development: from synapse to society,4.64,1545,Utrecht University,child-development,arts,https://www.coursera.org/learn/child-development,2018,3,7169
+574,Understanding the Brain: The neurobiology of Everyday Life,4.92,2979,The University of Chicago,neurobiology,medical,https://www.coursera.org/learn/neurobiology,2018,4,14657
+575,Using Databases with Python,4.71,5369,University of Michigan,python-databases,database / python / coding,https://www.coursera.org/learn/python-databases,2014,6,25288
+576,Using Python to Access Web Data,4.72,5087,University of Michigan,python-network-data,pytho / data / coding,https://www.coursera.org/learn/python-network-data,2016,6,24011
+577,Using Python to Interact with the Operating System,4.61,5126,Google,python-operating-system,python / coding,https://www.coursera.org/learn/python-operating-system,2014,6,23631
+578,VLSI CAD Part I: Logic,4.72,2531,University of Illinois at Urbana-Champaign,vlsi-cad-logic,maths,https://www.coursera.org/learn/vlsi-cad-logic,2013,7,11946
+579,Verb Tenses and Passives,4.73,1802,"University of California, Irvine",verb-passives,arts / lamguage,https://www.coursera.org/learn/verb-passives,2020,3,8523
+580,Version Control with Git,4.74,3178,Atlassian,version-control-with-git,computer,https://www.coursera.org/learn/version-control-with-git,2020,6,15064
+581,Viral Marketing and How to Craft Contagious Content,4.76,2447,University of Pennsylvania,wharton-contagious-viral-marketing,commerce,https://www.coursera.org/learn/wharton-contagious-viral-marketing,2014,10,11648
+582,Visual Elements of User Interface Design,4.59,2129,California Institute of the Arts,visual-elements-user-interface-design,commerce,https://www.coursera.org/learn/visual-elements-user-interface-design,2016,10,9772
+583,Vital Signs: Understanding What the Body Is Telling Us,4.83,2257,University of Pennsylvania,vital-signs,designing,https://www.coursera.org/learn/vital-signs,2015,9,10901
+584,Web Application Technologies and Django,4.79,8734,University of Michigan,django-database-web-apps,python / website,https://www.coursera.org/learn/django-database-web-apps,2019,6,41836
+585,Weight Management: Beyond Balancing Calories,4.78,1094,Emory University,weight-management-beyond-balancing-calories,management,https://www.coursera.org/learn/weight-management-beyond-balancing-calories,2014,1,5229
+586,What Is Contemporary Art?,4.77,1876,The Museum of Modern Art,contemporary-art,arts,https://www.coursera.org/learn/contemporary-art,2019,3,8949
+587,What is Compliance?,4.8,2324,University of Pennsylvania,what-is-compliance,commerce,https://www.coursera.org/learn/what-is-compliance,2020,10,11155
+588,What is Data Science?,4.63,3438,IBM,what-is-datascience,data/science/computer,https: /  / www.coursera.org / learn / what-is-datascience,2020,6,15918
+589,What is Social?,4.6,1824,northwestern University,what-is-social,arts,https://www.coursera.org/learn/what-is-social,2020,3,8390
+590,Wind Energy,4.72,2350,Technical University of Denmark (DTU),wind-energy,science,https://www.coursera.org/learn/wind-energy,2012,12,11092
+591,Wine Tasting: Sensory Techniques for Wine Analysis,4.28,3122,"University of California, Davis",wine,computer,https://www.coursera.org/learn/wine,2018,6,13362
+592,Write A Feature Length Screenplay For Film Or Television,4.67,1737,Michigan State University,write-a-feature-length-screenplay-for-film-or-television,arts,https://www.coursera.org/learn/write-a-feature-length-screenplay-for-film-or-television,2019,3,8112
+593,Write Professional Emails in English,4.82,1834,Georgia Institute of Technology,professional-emails-english,arts / language,https://www.coursera.org/learn/professional-emails-english,2014,3,8840
+594,Write Your First novel,3.94,1944,Michigan State University,write-your-first-novel,arts,https://www.coursera.org/learn/write-your-first-novel,2018,3,7659
+595,Writing and Editing: Word Choice and Word Order,4.78,3356,University of Michigan,writing-editing-words,computer / editing,https://www.coursera.org/learn/writing-editing-words,2015,6,16042
+596,Writing in the Sciences,4.93,2202,Stanford University,sciwrite,science,https://www.coursera.org/learn/sciwrite,2017,12,10856
+597,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,4.51,3261,University of Illinois at Urbana-Champaign,elearning,computer,https://www.coursera.org/learn/elearning,2015,6,14707
+598,etudier en France: French Intermediate course B1-B2,4.84,1973,ecole Polytechnique,etudier-en-france,foreign,https://www.coursera.org/learn/etudier-en-france,2018,5,9549
+599,Engineering Mathematics 1,4.33,3,MU,EM-1,maths,https://maths.com,2016,7,13
+600,Engineering Physics1,4.5,2,MU,PH-1,science,https://physics.com,2016,12,9
